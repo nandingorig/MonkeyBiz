@@ -197,3 +197,21 @@ https://g1z1.short.gy/DreamWorksTagalog
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/WWE_Network_(Canada)/WWE_Network_(Canada)-Logo.wine.png" group-title="Local & Int Channel",WWE Network
 https://g1z1.short.gy/WWE
+
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/history_channel-brandlogo.net_-512x512.png" group-title="Local & Int Channel",History
+https://g1z1.short.gy/History
+
+#EXTINF:-1 tvg-id="12649" tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20240727&channel_id=12649" tvg-logo="https://th.bing.com/th/id/OIP.8xIdcYektX82pKAdaXcQEgHaHr?pid=ImgDetMain" tvg-name="WARNER TV" group-title="Local & Int Channel",Warner TV
+https://g1z1.short.gy/WarnerTV
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.egBbeVav-BkvqIqATpISiAHaHa?pid=ImgDetMain" group-title="HBO",HBO2
+https://g1z1.short.gy/HBO2
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.hCrjiVa_ravdMdaJwpAkYwHaHW?pid=ImgDetMain" group-title="Sports",PBA RUSH
+https://g1z1.short.gy/PBARUSH
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.Jr1g_NyZAoQSKIo6IhXiUwAAAA?pid=ImgDetMain" group-title="Sports",Premier Sports
+https://g1z1.short.gy/PremierSports
+
+#EXTINF:-1 tvg-id="179013" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" tvg-name="US: E!" group-title="2024 OLYMPICS",US: E!
+https://g1z1.short.gy/E!
