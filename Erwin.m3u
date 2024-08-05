@@ -185,3 +185,18 @@ https://nick.jeromelaliag.link/NICKELODEON/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.ABP0DWYZ6I_WpSd00SdNEAHaHa?pid=ImgDetMain" group-title="Local & Int Channel",TV5
 https://g1z1.short.gy/TV5
+
+#EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18120023/tmc-logo-300x300.png" group-title="Movies",Tagalized Movie Channel
+https://g1z1.short.gy/TMC
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP._axKsIzLt6axiA5tJwpUsgAAAA?pid=ImgDetMain" group-title="Movies",VIVA Cinema
+https://g1z1.short.gy/ViVACinema
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.J-YYLBtweRrtE1EwQ9pC0QHaEK?rs=1&pid=ImgDetMain" group-title="Kids",DreamWorks Tagalog
+https://g1z1.short.gy/DreamWorksTagalog
+
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/WWE_Network_(Canada)/WWE_Network_(Canada)-Logo.wine.png" group-title="Local & Int Channel",WWE Network
+https://g1z1.short.gy/WWE
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP._axKsIzLt6axiA5tJwpUsgAAAA?pid=ImgDetMain" group-title="Movies",VIVA Cinema
+https://g1z1.short.gy/ViVACinema
