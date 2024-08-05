@@ -182,3 +182,6 @@ https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="All Channels" , NICKELODEON
 https://nick.jeromelaliag.link/NICKELODEON/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.ABP0DWYZ6I_WpSd00SdNEAHaHa?pid=ImgDetMain" group-title="Local & Int Channel",TV5
+https://g1z1.short.gy/TV5
