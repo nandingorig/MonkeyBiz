@@ -183,35 +183,47 @@ https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="All Channels" , NICKELODEON
 https://nick.jeromelaliag.link/NICKELODEON/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.ABP0DWYZ6I_WpSd00SdNEAHaHa?pid=ImgDetMain" group-title="Local & Int Channel",TV5
-https://g1z1.short.gy/TV5
+#EXTINF:-1 tvg-id="CCTN47.ph" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="All Channels",CCTN 47 (1080p) [Not 24/7]
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18120023/tmc-logo-300x300.png" group-title="Movies",Tagalized Movie Channel
-https://g1z1.short.gy/TMC
+#EXTINF:-1 tvg-id="DZRHNewsTV.ph" tvg-logo="https://i.imgur.com/qe1QqZh.png" group-title="All Channels",DZRH News TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP._axKsIzLt6axiA5tJwpUsgAAAA?pid=ImgDetMain" group-title="Movies",VIVA Cinema
-https://g1z1.short.gy/ViVACinema
+#EXTINF:-1 tvg-id="Kanal10Asia.se" tvg-logo="https://i.imgur.com/tY7IJva.png" group-title="All Channels",Kanal 10 Asia (540p)
+http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.J-YYLBtweRrtE1EwQ9pC0QHaEK?rs=1&pid=ImgDetMain" group-title="Kids",DreamWorks Tagalog
-https://g1z1.short.gy/DreamWorksTagalog
+#EXTINF:-1 tvg-id="Net25.ph" tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="All Channels",NET 25 (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
 
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/WWE_Network_(Canada)/WWE_Network_(Canada)-Logo.wine.png" group-title="Local & Int Channel",WWE Network
-https://g1z1.short.gy/WWE
+#EXTINF:-1 tvg-id="PTV4.ph" tvg-logo="https://i.imgur.com/T3jDOEq.png" group-title="All Channels",PTV 4 (480p) [Not 24/7]
+https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/history_channel-brandlogo.net_-512x512.png" group-title="Local & Int Channel",History
-https://g1z1.short.gy/History
+#EXTINF:-1 tvg-id="RadyoBandidoTV.ph" tvg-logo="https://i.imgur.com/JrNir4R.png" group-title="All Channels",Radyo Bandido TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC1f5yN0Hdibzm3JqqUswKvA.m3u8
 
-#EXTINF:-1 tvg-id="12649" tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20240727&channel_id=12649" tvg-logo="https://th.bing.com/th/id/OIP.8xIdcYektX82pKAdaXcQEgHaHr?pid=ImgDetMain" tvg-name="WARNER TV" group-title="Local & Int Channel",Warner TV
-https://g1z1.short.gy/WarnerTV
+#EXTINF:-1 tvg-id="TruthChannel.ph" tvg-logo="https://i.imgur.com/NRuM9Xt.png" group-title="All Channels",Truth Channel (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCa3hzYljDByZxkjIMah_2nw.m3u8
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.egBbeVav-BkvqIqATpISiAHaHa?pid=ImgDetMain" group-title="HBO",HBO2
-https://g1z1.short.gy/HBO2
+#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/PYJhTiq.png" group-title="All Channels",TV5 (1080p) [Not 24/7]
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.hCrjiVa_ravdMdaJwpAkYwHaHW?pid=ImgDetMain" group-title="Sports",PBA RUSH
-https://g1z1.short.gy/PBARUSH
+#EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="All Channels",TV5Monde Pacifique (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.Jr1g_NyZAoQSKIo6IhXiUwAAAA?pid=ImgDetMain" group-title="Sports",Premier Sports
-https://g1z1.short.gy/PremierSports
+#EXTINF:-1 tvg-id="TVMaria.ph" tvg-logo="https://i.imgur.com/yhIM9yU.png" group-title="All Channels",TV Maria (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCDXPB23ws_T0rVvrXVCYqyA.m3u8
 
-#EXTINF:-1 tvg-id="179013" tvg-logo="https://library.sportingnews.com/2021-08/paris-logo_1h3ji70wnhmai19wmvdj8ipp9m.png" tvg-name="US: E!" group-title="2024 OLYMPICS",US: E!
-https://g1z1.short.gy/E!
+#EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" tvg-logo="https://i.imgur.com/dwzOBZ1.png" group-title="All Channels",TVE Internacional Asia-Oceania [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
+
+#EXTINF:-1 tvg-id="UNTV.ph" tvg-logo="https://i.imgur.com/gFcpYSJ.png" group-title="All Channels",UNTV (2160p) [Not 24/7]
+https://ythls.armelin.one/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8
+
+#EXTINF:-1 tvg-id="Veritas846.ph" tvg-logo="https://i.imgur.com/7Ry02N8.jpeg" group-title="All Channels",Veritas 846 (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCAzUdEY3ZqtcC_s4ZdDKm7Q.m3u8
+
+#EXTINF:-1 tvg-id="ZarokTV.iq" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="All Channels",Zarok TV Sorani (720p)
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="RTRPlanetaAsia.ru" tvg-logo="https://i.imgur.com/DTtK0z7.png" group-title="All Channels",РТР Планета Азия
+https://player.smotrim.ru/iframe/stream/live_id/63254
