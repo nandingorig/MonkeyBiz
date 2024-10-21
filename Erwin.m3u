@@ -296,3 +296,6 @@ https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MagellanTV.us" tvg-logo="https://i.pcmag.com/imagery/reviews/0027IgrK9DvawXNJ6LYCEN9-1.fit_scale.size_1028x578.v1612813562.png" group-title="All Channels",Magellan TV
 https://jmp2.uk/sam-USAJ340000677.m3u8
+
+#EXTINF:-1 tvg-id="OneSports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg" group-title="All Channels",One Sports
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/onesports_qp.m3u8
