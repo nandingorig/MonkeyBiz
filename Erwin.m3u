@@ -373,5 +373,7 @@ https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh_w9LBqhouoAK3v1_jIKYP-vSIOUCkTGP_xokM-AiULC5akpmwCmktFJq68tPG_5QUuqww36lxfiJMFRDDYHUkgEGQmNKMydC40O3l1E0v_MppNqnklxK86A38jJHLaj-amkhKi9DTIHtyi8gozoee-iEcj78cAlHtDW8wDS2AizhdXWkqgAafdyKuf8A" group-title="All Channels",TFC
 https://tfcguam-abscbn-ono.amagi.tv/index_7.m3u8
 
+#EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="All Channels",Channel NewsAsia International
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKZTRj5Ri7JoLvsy0sT81s_U6Bqz1YNs3KBI7i6GwB8tJky-2Zi8jU9jjd9fNJ6fHMk_sNBeDQM6e0-eRwhnAE5AI1h-v1VbOBEXUVvSaT4Rm19OWXNJowgUqEh5F1lrIYb8iCf1cO3obSST6buMNmGqtLCc3gcXhAhln86fJtVfaWvEmNTTggT3TpzwM/s1600/Untitled.png" group-title="All Channels",Korean Movies Channel (PH)
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
