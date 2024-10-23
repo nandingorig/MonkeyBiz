@@ -352,5 +352,5 @@ https://ssh101-fl.bozztv.com/ssh101/dreamstartvnew/index.m3u8
 #EXTINF:-1 tvg-id="GreatCommissionTV.ph" tvg-logo="https://i.imgur.com/8cvikOo.png" group-title="All Channels",Great Commission TV
 http://45.32.115.103/live/livestream/index.m3u8
 
-#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://logowik.com/content/uploads/images/359_nba_tv_logo.jpg" group-title="All Channels",Rock Action
+#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://logowik.com/content/uploads/images/359_nba_tv_logo.jpg" group-title="All Channels",NBA
 https://fl5.moveonjoy.com/NBA_TV/index.m3u8
