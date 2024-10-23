@@ -351,3 +351,6 @@ https://ssh101-fl.bozztv.com/ssh101/dreamstartvnew/index.m3u8
 
 #EXTINF:-1 tvg-id="GreatCommissionTV.ph" tvg-logo="https://i.imgur.com/8cvikOo.png" group-title="All Channels",Great Commission TV
 http://45.32.115.103/live/livestream/index.m3u8
+
+#EXTINF:-1 tvg-id="ROCKAction.sg" tvg-logo="https://i.imgur.com/DTtK0z7.png" group-title="General",Rock Action
+https://wag.ika.lat/stream/507371538
