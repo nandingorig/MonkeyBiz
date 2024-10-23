@@ -354,3 +354,24 @@ http://45.32.115.103/live/livestream/index.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://logowik.com/content/uploads/images/359_nba_tv_logo.jpg" group-title="All Channels",NBA
 https://fl5.moveonjoy.com/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV6Fep8RQ0Vqf096FHoXUfDloVLbnAHNsFlTVSvbpDO3s5hRdiwcBIccyo8jnXV9EiMk_6_UTrTSNtKR1z1x6HFrGVW0oyPadpHwS4blZt1MB0NtIfEDChKdbuWZmH7QoTi3DZ4T6h04ftyvmFKZW7FgFxd7JrVhxeEq1Ko-SwJG248ZkZFRJpG_YQOjI/s320/Untitled.png" group-title="All Channels",Nhers Television (PH)
+https://fl1002.bozztv.com/ssh101/jomarhost/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4HfuNGG6CTwgSv7RF7XbXGDedms-iLKKViH_anSVLFQZSIGcv4CGfCuQeIz1C11-HqGT1qYfbXNDfBASke0Rtf45MfBEV_HhEDxAVVEKB-NKc8FYh3ZgufVlkw0MScHJU4otkonQTB7ZyTLzJM1UoDi6VtB96ESriP6d022E8nyYtshyaNnvdGGBNIxg/s320/Untitled.png" group-title="All Channels",Dreamstar Teleradio Nationwide (PH)
+https://usa2.server2028.com/hls/dreamstar_teleradio_/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxB1pRKLOdHi_PJVHy6zKnfDpIfyInkPr4zXSpjR5eShmFObrEPMh9ogQyU2PZxcc5X02ug0F8m7WmfRwy7VPe7hVPlbWxAn7d9kzi4e8bj3FnRDoyg2xJqPrs8Wmsshjf3SZyL2gl6-TdLatrWNPwyDW0E8Tzhu0xL_N2QYLtp8a1bCTo4-rrJnHIYc4/s1600/Untitled.png" group-title="All Channels",Bein Sports Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaXMw9q1dchxOCVQ16O5cEf-EkmLJiG54n0Pwrck0MzTNrGQ8VogEyIcahUzVnj_R-k1PQjrdyWs9BDiEO2thyphenhyphengOVXvkWTTUrIE8hfCEDgncmnbskSIzwufqVLP6lnMYLcPuAjmSxaJWKOUYPKCY3A_nH_q8v7B3mREuaYWVM-XFNRo7LRl3ydpKGC2rE/s1600/Untitled.png" group-title="All Channels",Action Movies
+https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6X4xCN0pd-6iZrlR0Psa4LZ_wDkvlTtzt0vTY8hXY6Qs4H1EhJqneIqaKU0Ms6SAIwWzNm_MqlQGlim-uFwfHiAH4ZFs3BNNFnNvRWizAEtDPzqEC15tPXJURPanjtT70M2NxZMfSHM1lOF91W5Vm7t4GQBmkoJ8Bt38mLSLm5-h9IYNuXbLxj_HQN8Q/s1600/Untitled.png" group-title="All Channels",AMC Thrillers
+https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh_w9LBqhouoAK3v1_jIKYP-vSIOUCkTGP_xokM-AiULC5akpmwCmktFJq68tPG_5QUuqww36lxfiJMFRDDYHUkgEGQmNKMydC40O3l1E0v_MppNqnklxK86A38jJHLaj-amkhKi9DTIHtyi8gozoee-iEcj78cAlHtDW8wDS2AizhdXWkqgAafdyKuf8A" group-title="All Channels",TFC
+https://tfcguam-abscbn-ono.amagi.tv/index_7.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKZTRj5Ri7JoLvsy0sT81s_U6Bqz1YNs3KBI7i6GwB8tJky-2Zi8jU9jjd9fNJ6fHMk_sNBeDQM6e0-eRwhnAE5AI1h-v1VbOBEXUVvSaT4Rm19OWXNJowgUqEh5F1lrIYb8iCf1cO3obSST6buMNmGqtLCc3gcXhAhln86fJtVfaWvEmNTTggT3TpzwM/s1600/Untitled.png" group-title="All Channels",Korean Movies Channel (PH)
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
