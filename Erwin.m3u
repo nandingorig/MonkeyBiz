@@ -388,10 +388,10 @@ https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="2GB.au" tvg-logo="https://i.ibb.co/jwM8DFG/2GB-1.png" group-title="All Channels",2GB
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 
-#EXTINF:-1 tvg-id="3TamilTV.au" tvg-logo="https://i.imgur.com/Z4MdB0S.png" group-title="All Channels",3 Tamil TV
+#EXTINF:-1 tvg-id="3TamilTV.au" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nZG4BRWT5t0eCtM-SFVh0JMexLekw0evo-J4_S8Bw3YA=s512-c-k-c0x00ffffff-no-rj" group-title="All Channels",3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
-#EXTINF:-1 tvg-id="3AW.au" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nZG4BRWT5t0eCtM-SFVh0JMexLekw0evo-J4_S8Bw3YA=s512-c-k-c0x00ffffff-no-rj" group-title="All Channels",3AW
+#EXTINF:-1 tvg-id="3AW.au" tvg-logo="https://i.imgur.com/Z4MdB0S.png" group-title="All Channels",3AW
 https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
 
 #EXTINF:-1 tvg-id="6PR.au" tvg-logo="https://i.imgur.com/Q9iCxg1.png" group-title="All Channels",6PR
