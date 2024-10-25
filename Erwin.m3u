@@ -636,3 +636,18 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729860039/ei/Z
 
 #EXTINF:-1 tvg-id="YuGiOh.us" tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="All Channel",Yu-Gi-Oh!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3738-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31531314-3e7f-4788-8c4f-f153a43ee0a0
+
+#EXTINF:-1 tvg-id="ClassicMoviesChannel.us" tvg-logo="https://i.imgur.com/pQJxov2.png" group-title="All Channel",Classic Movies Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e003-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7911819c-67eb-4f58-944f-5c6c6d4d937d
+
+#EXTINF:-1 tvg-id="FreedomMovieSphere.ug" tvg-logo="https://i.imgur.com/jEyrlPp.jpg" group-title="All Channel",Freedom Movie Sphere
+https://panel.freedomflixtv.org:3311/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="FilmRiseClassicTV.us" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="All Channel",FilmRise Classic TV on Redbox
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GravitasMovies.us" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="All Channel",Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HappyKids.us" tvg-logo="https://i.imgur.com/cPrUCFw.png" group-title="All Channel",HappyKids
+https://happykids-vizio.amagi.tv/playlist.m3u8
