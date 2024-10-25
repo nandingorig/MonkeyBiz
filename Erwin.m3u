@@ -442,5 +442,50 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 #EXTINF:-1 tvg-id="LocalNow_CrimeandPunishment" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63cffc35f877ed1ebd0f7904" group-title="All Channels",Crime & Punishment
 https://add3ead40a094b288da646966519678a.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LocalNow_CrimeandPunishment/playlist.m3u8?ads.wurl_channel=1230&ads.wurl_name=CrimeandPunishment&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.teleon.tv/logo/all-reality-by-we-tv-us.png" group-title="All Channels" , ABS CBN
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://www.totalcrimetv.com/wp-content/uploads/2022/10/crimetime-logo-white.png" group-title="All Channels", Total Crime
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-totalcrime-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.fanart.tv/bigpreview/alien-nation-57444a629bf99.png" group-title="All Channels" , Alien Nationt!
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-aliennation-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Circle_Country_logo.webp/790px-Circle_Country_logo.webp.png" group-title="All Channels" , Circle Country
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00432-circletv-circletv-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://photos.prnewswire.com/prnfull/20160929/413694LOGO?max=200" group-title="All Channels" , Comedy Dynamics
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.marielazechter.com/womeninscienceproject/images/declassifiedrevised.png" group-title="All Channels" , DeClassified
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s323324/images/logod.jpg" group-title="All Channels" , Nosey Judge
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-realnosey-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logovectorseek.com/wp-content/uploads/2021/10/outside-tv-logo-vector-xs.png" group-title="All Channels" , Outside TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00354-outsidetv-outsidetv-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/800px-ION_Mystery_logo.svg.png" group-title="All Channels" , ION Mystery
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/7/7f/BounceXL.svg/revision/latest?cb=20220805120321" group-title="All Channels" , Bounce XL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Court_TV_2019.png/220px-Court_TV_2019.png" group-title="All Channels" , Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.courttv.com/wp-content/themes/courttv/assets/images/legendarytrials/CTVLTLogo.png" group-title="All Channels" , Court TV Legendary Trials
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttvlegenderytrials-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.samsung.com/is/image/samsung/assets/us/tvs/smart-tv/smart-hub-and-apps/06082021/logo-m-amc.jpg?$720_N_JPG$" group-title="All Channels" , Stories by AMC
+https://amc-amcpresents-1-us.tablo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Wedding_TV.svg/150px-Wedding_TV.svg.png" group-title="All Channels" , All Weddings WE Tv
+https://amc-allweddings-1-us.tablo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.teleon.tv/logo/all-reality-by-we-tv-us.png" group-title="All Channels" , All Reality WE tv
+https://amc-absolutereality-1-us.tablo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.failarmy.com/cdn/shop/files/FA_RGB_STACKED-LOGO_HORIZONTAL_410x.png" group-title="All Channels" , Fail Army
+https://jukin-failarmy-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ABS-CBN_%282013%29.svg/200px-ABS-CBN_%282013%29.svg.png" group-title="All Channels" , ABS CBN
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729860039/ei/Zz0bZ67xOt6Xs8IP55ehyQs/ip/175.176.65.96/id/1rlTDCRgS3s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51241485/txs/51241481%2C51241482%2C51241483%2C51241484%2C51241485%2C51241486/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/spc/qtApASLy0t9oS-I8ar-YdJ6tQzJXFeTj6-gy_moyrFj5oL_m9EogDNocUa-6eMc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANyNe6JifYXTpR6THuft2a1Bt9Wmg4hQC2PBofwz_0JsAiAPLh9WaERYT_4VkPNxAtsv5s1DeCPoVcy-SCGWBEUtzg%3D%3D/file/index.m3u8
