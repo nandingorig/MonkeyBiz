@@ -487,5 +487,14 @@ https://amc-absolutereality-1-us.tablo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.failarmy.com/cdn/shop/files/FA_RGB_STACKED-LOGO_HORIZONTAL_410x.png" group-title="All Channels" , Fail Army
 https://jukin-failarmy-1-us.lg.wurl.tv/playlist.m3u8
 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://media.wired.com/photos/593251a94dc9b45ccec5d343/master/w_1600,c_limit/ifc-10.jpg" group-title="All Channels", Slightly Off IFC
+https://amc-slightly-off-by-amc-1-us.tablo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/e3/AMC_Thriller_2019.svg/revision/latest?cb=20240408014925" group-title="All Channels", AMC Thrillers
+https://amc-rushbyamc-1-us.tablo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/walkingdead/images/a/a3/TWDUniverse.jpeg/revision/latest?cb=20231013184405" group-title="All Channels", Walking Dead Universe
+https://amc-twdfanexperience-1-us.tablo.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ABS-CBN_%282013%29.svg/200px-ABS-CBN_%282013%29.svg.png" group-title="All Channels" , ABS CBN
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729860039/ei/Zz0bZ67xOt6Xs8IP55ehyQs/ip/175.176.65.96/id/1rlTDCRgS3s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51241485/txs/51241481%2C51241482%2C51241483%2C51241484%2C51241485%2C51241486/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/spc/qtApASLy0t9oS-I8ar-YdJ6tQzJXFeTj6-gy_moyrFj5oL_m9EogDNocUa-6eMc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANyNe6JifYXTpR6THuft2a1Bt9Wmg4hQC2PBofwz_0JsAiAPLh9WaERYT_4VkPNxAtsv5s1DeCPoVcy-SCGWBEUtzg%3D%3D/file/index.m3u8
