@@ -508,6 +508,9 @@ https://amc-allblk-gems-1-us.tablo.wurl.tv/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Portlandia_logo.png" group-title="All Channels", Portlandia
 https://amc-portlandia-1-us.tablo.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Crime_360_logo.jpg/220px-Crime_360_logo.jpg" group-title="All Channels" , Crime 360
+https://f82e592c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQ3JpbWUzNjBfSExT/playlist.m3u8
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png" group-title="All Channels", ANIME x HIDIVE
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 
