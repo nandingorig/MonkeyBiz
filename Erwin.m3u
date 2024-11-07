@@ -808,9 +808,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgus/p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/800px-Ion_logo.svg.png" group-title="All Channels", ION
 https://scripps-ion-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/220px-ION_Mystery_logo.svg.png" group-title="All Channels", ION Mystery
-https://scripps-ionmystery-1-us.lg.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Jail_tv_series_logo.jpg/220px-Jail_tv_series_logo.jpg" group-title="All Channels", Jail
 https://langleyproductions-jail-1-us.lg.wurl.tv/playlist.m3u8
 
