@@ -921,3 +921,42 @@ https://61db1718eec04f09a347d7c19a9ab138.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 channel-id="" tvg-name="Miramax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Miramax-Films-Logo.svg/236px-Miramax-Films-Logo.svg.png" group-title="All Channels" , Miramax Movies
 https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="" tvg-name="Forever" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/The_CW.svg/revision/latest?cb=20231006215156" group-title="All Channels" , CW Forever
+https://linear-850.frequency.stream/dist/tcltv/850/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="" tvg-name="Gold" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/f/fe/The_CW_prelunch.svg/revision/latest/scale-to-width-down/340?cb=20220418233936" group-title="All Channels" , CW Gold
+https://linear-851.frequency.stream/dist/tcltv/851/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="" tvg-name="Funny" tvg-logo="https://scontent.fceb2-2.fna.fbcdn.net/v/t39.30808-6/431730370_945569330357706_6709198246704191627_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGLaWp0QDT6nLqqW01SstFciNVTdvDmVVmI1VN28OZVWd_XiEB-j57sMFUU6NzpPYoMEigSM4AhCT9g3PZbwhB-&_nc_ohc=Sn2CAysEphEQ7kNvgGI7-i2&_nc_zt=23&_nc_ht=scontent.fceb2-2.fna&_nc_gid=Auj2YpEQw8Xc7yGfDP1Q7r8&oh=00_AYBf2gQAerly5deevTFFKFuY3XsoqWFsN2-BbV7SBkZN9Q&oe=67324878" group-title="All Channels" , Always Funny
+https://linear-12.frequency.stream/dist/tcltv/12/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="" tvg-name="Pranks&Fails" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A4F952D6-10C8-41DC-88BF-963FB97A50C8/3-1x1.png" group-title="All Channels" , Always Funny: Pranks & Fails
+https://linear-863.frequency.stream/dist/tcltv/863/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="" tvg-name="UFA" tvg-logo="https://unitedfightalliance.com/wp-content/uploads/2024/01/cropped-Screenshot_2024-01-16_174700-removebg-preview-1.png" group-title="All Channels" , United Fight Alliance
+https://brawlcall-unitedfightalliance-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="" tvg-name="MIHTV" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/AD0D0ADE-F2AC-4517-95A4-5D80C76831DC/3-1x1.png" group-title="All Channels" , Made in Hollywood
+https://connection3-ent-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="" tvg-name="Cinelife" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Cinelife.png" group-title="All Channels" , Cinelife
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00308-magnoliapicture-cinelife-tcl/playlist.m3u8
+
+#EXTINF:-1 channel-id="" tvg-name="WatchMojo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Watchmojo-logo-2018.png" group-title="All Channels" , Watch Mojo
+https://watchmojo-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="" tvg-name="Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png" group-title="All Channels" , Action
+https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="" tvg-name="BeyondParanormalUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png" group-title="All Channels" , Beyond Paranormal US
+https://videoelephantlimited-beyondparanormal-1-us.tcltvplus.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="" tvg-name="Bigtjme" tvg-logo="https://bigtimewiki.com/bigtime/bigtime_logo.webp" group-title="All Channels" , Bigtjme
+https://amogonetworx-bigtjme-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="" tvg-name="Filmzie" tvg-logo="https://m.media-amazon.com/images/I/818IBwg4qsL.png" group-title="All Channels" , Filmzie
+https://filmzie-filmzie-3-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="" tvg-name="Food" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Foodlogo.svg" group-title="All Channels" , Food
+https://food-us.tcl.wurl.tv/playlist.m3u8
