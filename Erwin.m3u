@@ -967,7 +967,7 @@ http://1tv41.icu:8080/76qHVc/061362/215279
 #EXTINF:-1 channel-id="" tvg-name="M4 Alien" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/M4_icon.svg/220px-M4_icon.svg.png" group-title="All Channels" , M4 Alien
 http://1tv41.icu:8080/76qHVc/061362/215271
 
-#EXTINF:-1 channel-id="" tvg-name="CMC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZIpA1bQouVMA-IoB2yMJhFHRVjRSDuNWfA&usqp=CAU" group-title="All Channels" , CMC (California Music Channel)
+#EXTINF:-1 channel-id="" tvg-name="M4 CMC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZIpA1bQouVMA-IoB2yMJhFHRVjRSDuNWfA&usqp=CAU" group-title="All Channels" , M4 CMC (California Music Channel)
 http://1tv41.icu:8080/76qHVc/061362/215271
 
 #EXTINF:-1 channel-id="" tvg-name="M4 Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/M4_icon.svg/220px-M4_icon.svg.png" group-title="All Channels" , M4 Comedy
@@ -976,13 +976,13 @@ http://1tv41.icu:8080/76qHVc/061362/215278
 #EXTINF:-1 channel-id="" tvg-name="M4 Fast and the Furious" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/M4_icon.svg/220px-M4_icon.svg.png" group-title="All Channels" , M4 Fast and the Furious
 http://1tv41.icu:8080/76qHVc/061362/215287
 
-#EXTINF:-1 channel-id="" tvg-name="PBS KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGIR4QHQu9Uhdk3Ku1s_21jPa1T6Hxbekpqn5aecLgKeSbfVYGW5m3e1k&s=10" group-title="All Channels" , PBS KIDS
+#EXTINF:-1 channel-id="" tvg-name="M4 PBS KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGIR4QHQu9Uhdk3Ku1s_21jPa1T6Hxbekpqn5aecLgKeSbfVYGW5m3e1k&s=10" group-title="All Channels" , M4 PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 channel-id="" tvg-name="REDBULL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfYKmud53U1oiKZlvozPhgBhrLr6rpNVCoeQ&usqp=CAU" group-title="All Channels" , REDBULL TV
+#EXTINF:-1 channel-id="" tvg-name="M4 REDBULL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfYKmud53U1oiKZlvozPhgBhrLr6rpNVCoeQ&usqp=CAU" group-title="All Channels" , M4 REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-#EXTINF:-1 channel-id="" tvg-name="Sci-Fi World" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/scifi_world_512X512_balck.png" group-title="All Channels" , Sci-Fi World
+#EXTINF:-1 channel-id="" tvg-name="M4 Sci-Fi World" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/scifi_world_512X512_balck.png" group-title="All Channels" , M4 Sci-Fi World
 https://streams2.sofast.tv/ptnr-yupptv/title-SCIFI-WORLD-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
 
 #EXTINF:-1 channel-id="" tvg-name="M4 Transformers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/M4_icon.svg/220px-M4_icon.svg.png" group-title="All Channels" , M4 Transformers
