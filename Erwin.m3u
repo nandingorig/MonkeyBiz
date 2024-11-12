@@ -1065,3 +1065,66 @@ http://1tv41.icu:8080/76qHVc/061362/215343
 
 #EXTINF:-1 channel-id="" tvg-name="M4 War" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/M4_icon.svg/220px-M4_icon.svg.png" group-title="All Channels" , M4 War
 http://1tv41.icu:8080/76qHVc/061362/215345
+
+#EXTINF:-1 channel-id="" tvg-name="Ice Road Truckers" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVlZTJjYWUtMDJlYi00NjliLWE3OWItMTZkMzQ0NWYxMjU1XkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg" group-title="All Channels" , Ice Road Truckers
+https://593eceaa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0ljZVJvYWRUcnVja2Vyc19ITFM/playlist.m3u8
+
+#EXTINF:-1 channel-id="" tvg-name="Kitchen Nightmares & Hell's Kitchen" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/50/USBA3000042O6_20210525T051452.png" group-title="All Channels" , Kitchen Nightmares & Hell's Kitchen
+https://d3fmqi91qduj7.cloudfront.net/11401/88814512/hls/master.m3u8?ads.xumo_channelId=88814512&ads.xumo_streamId=88814512
+
+#EXTINF:-1 channel-id="" tvg-name="Crime ThrillHer" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/THRILLR/large_white.png" group-title="All Channels" , Crime ThrillHer
+https://f2ea7639.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0NyaW1lVGhyaWxsSGVyX0hMUw/playlist.m3u8
+
+#EXTINF:-1 channel-id="" tvg-name="Crime & Punishment" tvg-logo="https://w7.pngwing.com/pngs/343/98/png-transparent-united-states-drug-related-crime-capital-punishment-criminal-law-united-states-text-logo-united-states.png" group-title="All Channels" , Crime & Punishment
+https://e86ebe30b5a6405ea08704e2e8746141.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_CrimeandPunishment/playlist.m3u8
+
+#EXTINF:-1 channel-id="" tvg-name="Crime Cults Killers by A&E" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/CRIMEC/large_dark.png" group-title="All Channels" , Crime Cults Killers by A&E
+https://e37bdef7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0tyaW1pbmFsX0hMUw/playlist.m3u8
+
+#EXTINF:-1 channel-id="" tvg-name="Crime Scene TV" tvg-logo="https://www.shutterstock.com/image-vector/crime-icon-vector-iconeditable-strokelinear-260nw-2121944300.jpg" group-title="All Channels" , Crime Scene TV
+https://d3fmqi91qduj7.cloudfront.net/11401/88814579/hls/master.m3u8?ads.xumo_channelId=88814579&ads.xumo_streamId=88814579
+
+#EXTINF:-1 channel-id="" tvg-name="Free Crime TV" tvg-logo="https://seeklogo.com/images/D/detective-logo-E3D520D0A0-seeklogo.com.png" group-title="All Channels" , Free Crime TV
+https://d3fmqi91qduj7.cloudfront.net/11401/88814532/hls/master.m3u8?ads.xumo_channelId=88814532&ads.xumo_streamId=88814532
+
+#EXTINF:-1 channel-id="" tvg-name="Unsolved Mysteries" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Unsolved_mysteries_logo.png" group-title="All Channels" , Unsolved Mysteries
+https://d3fmqi91qduj7.cloudfront.net/11401/88814518/hls/master.m3u8?ads.xumo_channelId=88814518&ads.xumo_streamId=88814518
+
+#EXTINF:-1 channel-id="" tvg-name="Dr. G: Medical Examiner" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/0105a034-ac3a-3197-b0b3-7f779f0bcdaa/TITLE_TREATMENT?language=eng&territory=US&proposition=NBCUOTT&version=59f91544-0259-3644-9c77-523cc24984c9" group-title="All Channels" , Dr. G: Medical Examiner
+https://d3fmqi91qduj7.cloudfront.net/11401/88814507/hls/master.m3u8?ads.xumo_channelId=88814507&ads.xumo_streamId=88814507
+
+#EXTINF:-1 channel-id="" tvg-name="Filmrise True Crime" tvg-logo="https://filmrise.com/uploads/images/FilmRise_TrueCrime_Color_Logo_long.png" group-title="All Channels" , Filmrise True Crime
+https://d3fmqi91qduj7.cloudfront.net/11401/88814506/hls/master.m3u8?ads.xumo_channelId=88814506&ads.xumo_streamId=88814506
+
+#EXTINF:-1 channel-id="" tvg-name="Forensic Files" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Forensic_Files_2002.png" group-title="All Channels" , Forensic Files
+https://d3fmqi91qduj7.cloudfront.net/11401/88814501/hls/master.m3u8?ads.xumo_channelId=88814501&ads.xumo_streamId=88814501
+
+#EXTINF:-1 channel-id="" tvg-name="Universal Crime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTv1azc7VceDWr74jDeBblAm2iIB8flDNfw&s" group-title="All Channels" , Universal Crime
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814613/hls/master.m3u8?ads.xumo_channelId=88814613&ads.xumo_streamId=88814613
+
+#EXTINF:-1 channel-id="" tvg-name="Oxygen True Crime Archives" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1200px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="All Channels" , Oxygen True Crime Archives
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814608/hls/master.m3u8?ads.xumo_channelId=88814608&ads.xumo_streamId=88814608
+
+#EXTINF:-1 channel-id="" tvg-name="Dateline 24/7" tvg-logo="https://image.xumo.com/v1/channels/channel/99991626/600x337.webp?type=channelTile" group-title="All Channels" , Dateline 24/7
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814558/hls/master.m3u8?ads.xumo_channelId=88814558&ads.xumo_streamId=88814558
+
+#EXTINF:-1 channel-id="" tvg-name="Real Crime Uncovered by VideoElephant" tvg-logo="https://videoelephant.com/uploads/logos/RCU_VE_White_sml_2024-06-19-160212_lsnq.png" group-title="All Channels" , Real Crime Uncovered by VideoElephant
+https://7b68b99a1f1e4157a64bd1c03a17b5e2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCLTVPlus_CrimeFiles/playlist.m3u8
+
+#EXTINF:-1 channel-id="" tvg-name="TruBlu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Tru-blu-company-logo.png/220px-Tru-blu-company-logo.png" group-title="All Channels" , TruBlu
+https://5b53689367b9416f8a130fcca166455b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCLTVPlus_TruBlu/playlist.m3u8
+
+#EXTINF:-1 channel-id="" tvg-name="Real Housewives" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/TheRealHousewivesOfOrangeCountyLogo.png" group-title="All Channels" , Real Housewives
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814611/hls/master.m3u8?ads.xumo_channelId=88814611&ads.xumo_streamId=88814611
+
+#EXTINF:-1 channel-id="" tvg-name="E! Keeping Up" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/5bafa7d4e08aa.jpg" group-title="All Channels" , E! Keeping Up
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814610/hls/master.m3u8?ads.xumo_channelId=88814610&ads.xumo_streamId=88814610
+
+#EXTINF:-1 channel-id="" tvg-name="Bad Girls Club" tvg-logo="https://e7.pngegg.com/pngimages/748/411/png-clipart-youtube-oxygen-television-show-afterbuzz-tv-reality-television-youtube-love-purple-thumbnail.png" group-title="All Channels" , Bad Girls Club
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814605/hls/master.m3u8?ads.xumo_channelId=88814605&ads.xumo_streamId=88814605
+
+#EXTINF:-1 channel-id="" tvg-name="FilmRise Free Movies" tvg-logo="https://m.media-amazon.com/images/I/71TvjNY1vmL.png" group-title="All Channels" , FilmRise Free Movies
+https://d3fmqi91qduj7.cloudfront.net/11401/88814500/hls/master.m3u8?ads.xumo_channelId=88814500&ads.xumo_streamId=88814500
+
+#EXTINF:-1 channel-id="" tvg-name="Filmrise Action" tvg-logo="https://m.media-amazon.com/images/I/71TvjNY1vmL.png" group-title="All Channels" , Filmrise Action
+https://d3fmqi91qduj7.cloudfront.net/11401/88814502/hls/master.m3u8?ads.xumo_channelId=88814502&ads.xumo_streamId=88814502
