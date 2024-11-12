@@ -1090,7 +1090,7 @@ https://d3fmqi91qduj7.cloudfront.net/11401/88814532/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 channel-id="" tvg-name="Unsolved Mysteries" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Unsolved_mysteries_logo.png" group-title="All Channels" , Unsolved Mysteries
 https://d3fmqi91qduj7.cloudfront.net/11401/88814518/hls/master.m3u8?ads.xumo_channelId=88814518&ads.xumo_streamId=88814518
 
-#EXTINF:-1 channel-id="" tvg-name="Dr. G: Medical Examiner" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/0105a034-ac3a-3197-b0b3-7f779f0bcdaa/TITLE_TREATMENT?language=eng&territory=US&proposition=NBCUOTT&version=59f91544-0259-3644-9c77-523cc24984c9" group-title="All Channels" , Dr. G: Medical Examiner
+#EXTINF:-1 channel-id="" tvg-name="Dr G Medical Examiner" tvg-logo="https://imageservice.disco.peacocktv.com/uuid/0105a034-ac3a-3197-b0b3-7f779f0bcdaa/TITLE_TREATMENT?language=eng&territory=US&proposition=NBCUOTT&version=59f91544-0259-3644-9c77-523cc24984c9" group-title="All Channels" , Dr G Medical Examiner
 https://d3fmqi91qduj7.cloudfront.net/11401/88814507/hls/master.m3u8?ads.xumo_channelId=88814507&ads.xumo_streamId=88814507
 
 #EXTINF:-1 channel-id="" tvg-name="Filmrise True Crime" tvg-logo="https://filmrise.com/uploads/images/FilmRise_TrueCrime_Color_Logo_long.png" group-title="All Channels" , Filmrise True Crime
