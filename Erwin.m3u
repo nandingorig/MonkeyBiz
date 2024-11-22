@@ -1149,3 +1149,9 @@ https://newidco-ygtv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="" tvg-name="K-Movie Entertainment" tvg-logo="https://media.licdn.com/dms/image/D560BAQFjqVBarD-JvA/company-logo_200_200/0/1680758557654?e=2147483647&v=beta&t=jZcFPhVwDPwdz9xM8ZNN-1-ZyUE8AP2jO9cHxvKYAeY" group-title="All Channels" , K-Movie Enterntainment
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+
+#EXTINF:-1 channel-id="" tvg-name="ODC" tvg-logo="https://play-lh.googleusercontent.com/84hK02GVg2Z5ZWXzAbqprRstvVqvqlGxX1g00B06zXza9_FTZiTCTW9vlwqSuc2yvyH4=w240-h480-rw" group-title="All Channels" , ODC
+https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="" tvg-name="Hi-Yah!" tvg-logo="https://m.media-amazon.com/images/I/51ZRO9-pw5L.png" group-title="All Channels" , Hi-Yah!
+https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
