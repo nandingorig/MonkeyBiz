@@ -1128,3 +1128,6 @@ https://d3fmqi91qduj7.cloudfront.net/11401/88814500/hls/master.m3u8?ads.xumo_cha
 
 #EXTINF:-1 channel-id="" tvg-name="Filmrise Action" tvg-logo="https://m.media-amazon.com/images/I/71TvjNY1vmL.png" group-title="All Channels" , Filmrise Action
 https://d3fmqi91qduj7.cloudfront.net/11401/88814502/hls/master.m3u8?ads.xumo_channelId=88814502&ads.xumo_streamId=88814502
+
+#EXTINF:-1 channel-id="" tvg-name="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/199px-National-Geographic-Logo.svg.png" group-title="All Channels" , National Geographic
+https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=videojs&timestamp=2024-11-22-12-02
