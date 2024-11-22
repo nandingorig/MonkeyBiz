@@ -1131,3 +1131,6 @@ https://d3fmqi91qduj7.cloudfront.net/11401/88814502/hls/master.m3u8?ads.xumo_cha
 
 #EXTINF:-1 channel-id="" tvg-name="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/199px-National-Geographic-Logo.svg.png" group-title="All Channels" , National Geographic
 https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=videojs&timestamp=2024-11-22-12-02
+
+#EXTINF:-1 channel-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="All Channels" , HBO
+https://fl5.moveonjoy.com/HBO_2/index.m3u8
