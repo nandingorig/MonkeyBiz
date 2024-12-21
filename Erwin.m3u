@@ -1144,6 +1144,9 @@ https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=videojs&timestamp
 #EXTINF:-1 channel-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="All Channels" , HBO
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 
+#EXTINF:-1 channel-id="" tvg-name="HBOPlus" tvg-logo="https://www.nicepng.com/png/detail/223-2235574_1-hbo-http-hbo-plus-logo-png.png" group-title="All Channels" , HBO Plus
+http://170.254.18.106/HBO_PLUS/index.m3u8
+
 #EXTINF:-1 channel-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/220px-AXN_logo_%282015%29.svg.png" group-title="All Channels" , AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
