@@ -1167,3 +1167,6 @@ https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="" tvg-name="Hi-Yah!" tvg-logo="https://m.media-amazon.com/images/I/51ZRO9-pw5L.png" group-title="All Channels" , Hi-Yah!
 https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="CrimePlusInvestigationAsia.sg" tvg-name="Crime + Investigation Asia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/512px-C%26I_logo.svg.png" group-title="All Channels" , Crime + Investigation Asia HD
+https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
