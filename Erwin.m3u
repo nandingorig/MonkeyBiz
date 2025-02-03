@@ -16,14 +16,17 @@ https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Kapamilya_Online_Live_Logo_2020.svg/2560px-Kapamilya_Online_Live_Logo_2020.svg.png" group-title="All Channels" , Kapamilya Online Live (IPTV app only)
 http://jeromelaliag.link/iptv/abscbnentertainment.php
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/220px-GMA_Network_Logo_Vector.svg.png" group-title="All Channels" , Kapuso Channel
-https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GMA_Life_TV_logo.png/200px-GMA_Life_TV_logo.png" group-title="All Channels" , GMA Life TV
+http://fortv.cc:8080/live/kberg6767%40gmail.com/kberg6767%402024/101825.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/220px-GMA_Network_Logo_Vector.svg.png" group-title="All Channels" ,07. GMA7
-https://wag.ika.lat/stream/812083425
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/af/GMA_Pinoy_TV_logo.png/250px-GMA_Pinoy_TV_logo.png" group-title="All Channels" , GMA Pinoy
+http://fortv.cc:8080/live/kberg6767%40gmail.com/kberg6767%402024/101826.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Radyo5truefmlogo.webp/600px-Radyo5truefmlogo.webp.png" group-title="All Channels" , True FM
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/BuKo_Buhay_Komedya_Logo.jpg/170px-BuKo_Buhay_Komedya_Logo.jpg" group-title="All Channels" , Buko
+http://defaultgen.com:3050/live/ahweic/rfyMkmvwgM/558780.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png" group-title="All Channels" , TeleRadyo Serbisyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
@@ -217,8 +220,8 @@ https://ythls.armelin.one/channel/UC1f5yN0Hdibzm3JqqUswKvA.m3u8
 #EXTINF:-1 tvg-id="TruthChannel.ph" tvg-logo="https://i.imgur.com/NRuM9Xt.png" group-title="All Channels",Truth Channel (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCa3hzYljDByZxkjIMah_2nw.m3u8
 
-#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/PYJhTiq.png" group-title="All Channels",TV5 (1080p) [Not 24/7]
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/PYJhTiq.png" group-title="All Channels",TV5
+http://defaultgen.com:3050/live/ahweic/rfyMkmvwgM/558749.ts
 
 #EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="All Channels",TV5Monde Pacifique (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
@@ -302,7 +305,7 @@ https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 https://jmp2.uk/sam-USAJ340000677.m3u8
 
 #EXTINF:-1 tvg-id="OneSports.ph" tvg-logo="https://www.onesports.ph/Images/OneSports.png" group-title="All Channels",One Sports
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/onesports_qp.m3u8
+http://opplextv.cyou:8080/live/52882216/581881255/384009.ts
 
 #EXTINF:-1 tvg-id="USBA3000042O6" tvg-chno="1000" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/50/USBA3000042O6_20210525T051452.png" group-title="All Channels",Kitchen Nightmares
 https://d12hafsmzbqmzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/KitchenNightmare2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -350,7 +353,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-insighttv/playlist.m3u8?ads.
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c12ba66eae03059cbdc77f2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="All Channels",04. A2Z Channel
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5.m3u8
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8
 
 #EXTINF:-1 tvg-id="DreamstarTV.ph" tvg-logo="https://i.imgur.com/TltPHDk.png" group-title="All Channels",Dreamstar TV
 https://ssh101-fl.bozztv.com/ssh101/dreamstartvnew/index.m3u8
@@ -377,7 +380,7 @@ https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh_w9LBqhouoAK3v1_jIKYP-vSIOUCkTGP_xokM-AiULC5akpmwCmktFJq68tPG_5QUuqww36lxfiJMFRDDYHUkgEGQmNKMydC40O3l1E0v_MppNqnklxK86A38jJHLaj-amkhKi9DTIHtyi8gozoee-iEcj78cAlHtDW8wDS2AizhdXWkqgAafdyKuf8A" group-title="All Channels",TFC
-https://tfcguam-abscbn-ono.amagi.tv/index_7.m3u8
+http://fortv.cc:8080/live/kberg6767%40gmail.com/kberg6767%402024/101823.ts
 
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="All Channels",Channel NewsAsia International
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -670,11 +673,20 @@ https://shorten.is/Gtv-738474883838-ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipe...Logo_2011.svg/1200px-IBC_13_Logo_2011.svg.png" group-title="All Channels",13. IBC13
 https://wag.ika.lat/stream/1371426403​
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg" group-title="All Channels",8. ONESPORTS
-https://wag.ika.lat/stream/644043760​
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/220px-OneNewsPH_logo.svg.png" group-title="All Channels", ONENEWS
+http://defaultgen.com:3050/live/vsue295%40gmail.com/QtxtCKJ5vy/558788.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/OneSportsPlus_logo.svg" group-title="All Channels",9. ONE SPORTS+ HD
-https://wag.ika.lat/stream/1436138670
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/220px-OnePHCignal.svg.png" group-title="All Channels", ONEPH
+http://defaultgen.com:3050/live/vsue295%40gmail.com/QtxtCKJ5vy/558788.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/OneSportsPlus_logo.svg" group-title="All Channels", ONE SPORTS+ HD
+http://defaultgen.com:3050/live/vsue295%40gmail.com/QtxtCKJ5vy/558758.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Uaapvarsitychannel.png/220px-Uaapvarsitychannel.png" group-title="All Channels", UAAP VARSITY CH
+http://defaultgen.com:3050/live/ahweic/rfyMkmvwgM/558745.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/PBA_Rush_logo.png/220px-PBA_Rush_logo.png" group-title="All Channels", PBA RUSH
+http://defaultgen.com:3050/live/ahweic/rfyMkmvwgM/558787.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/NBA_TV.svg" group-title="All Channels",10. NBA Philippines
 https://wag.ika.lat/stream/1044534831
@@ -962,7 +974,7 @@ https://filmzie-filmzie-3-us.tcl.wurl.tv/playlist.m3u8
 https://food-us.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="" tvg-name="sarisari" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Sari-Sari_Channel_logo.png/200px-Sari-Sari_Channel_logo.png" group-title="All Channels" , Sari-Sari
-https://tinyurl.com/5bcc4nrw
+http://fortv.cc:8080/live/kberg6767%40gmail.com/kberg6767%402024/101824.ts
 
 #EXTINF:-1 channel-id="" tvg-name="M4 Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/M4_icon.svg/220px-M4_icon.svg.png" group-title="All Channels" , M4 Crime
 http://1tv41.icu:8080/76qHVc/061362/215280
