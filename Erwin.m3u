@@ -1087,8 +1087,8 @@ https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
 #EXTINF:-1 channel-id="CrimePlusInvestigationAsia.sg" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Warner_Bros._logo_2023.svg/400px-Warner_Bros._logo_2023.svg.png" group-title="All Channels" , Warner TV
 https://cdn09jtedge.indihometv.com/atm/hlsv3/warner/warner-avc1_2500000=6-mp4a_96000=2.m3u8
 
-#EXTINF:-1 channel-id="CrimePlusInvestigationAsia.sg" tvg-name="NBA1" tvg-logo="https://logowik.com/content/uploads/images/359_nba_tv_logo.jp" group-title="All Channels" , NBA1
+#EXTINF:-1 channel-id="CrimePlusInvestigationAsia.sg" tvg-name="NBA1" tvg-logo="https://logowik.com/content/uploads/images/359_nba_tv_logo.jpg" group-title="All Channels" , NBA1
 http://fl5.moveonjoy.com/NBA_1/index.m3u8
 
-#EXTINF:-1 channel-id="CrimePlusInvestigationAsia.sg" tvg-name="NBA1" tvg-logo="https://logowik.com/content/uploads/images/359_nba_tv_logo.jp" group-title="All Channels" , NBA2
+#EXTINF:-1 channel-id="CrimePlusInvestigationAsia.sg" tvg-name="NBA1" tvg-logo="https://logowik.com/content/uploads/images/359_nba_tv_logo.jpg" group-title="All Channels" , NBA2
 http://fl5.moveonjoy.com/NBA_5/index.m3u8
