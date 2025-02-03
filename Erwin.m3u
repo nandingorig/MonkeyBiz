@@ -44,22 +44,22 @@ https://dplus.gammacdn.workers.dev/videos/111.m3u8
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
 
 #EXTINF:-1 tvg-id="39" tvg-name="39" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="All Channels" , Discovery HD
-https://dplus.gammacdn.workers.dev/videos/95.m3u8
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png" group-title="All Channels" , Discovery Science
-https://dplus.gammacdn.workers.dev/videos/96.m3u8
+http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 
 #EXTINF:-1 tvg-id="Foodnetwork.Hd.ph" tvg-name="Foodnetwork.Hd.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="All Channels" , TLC
-https://dplus.gammacdn.workers.dev/videos/97.m3u8
+http://fl2.moveonjoy.com/TLC/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/640px-Discovery_Turbo.png" group-title="All Channels" , Discovery Turbo
 https://dplus.gammacdn.workers.dev/videos/98.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nicepng.com/png/full/831-8310067_bindi-the-otters-new-animal-planet-logo.png" group-title="All Channels" , Animal Planet
-https://dplus.gammacdn.workers.dev/videos/99.m3u8
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ID_INVESTIGATION_DISCOVERY.png/538px-ID_INVESTIGATION_DISCOVERY.png" group-title="All Channels" , Investigation Discovery
-https://dplus.gammacdn.workers.dev/videos/101.m3u8
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Dmax_tv-channel.png" group-title="All Channels" , DMAX
 https://dplus.gammacdn.workers.dev/videos/109.m3u8
@@ -73,14 +73,14 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/INCTV_Logo_With_Shadow.webp/800px-INCTV_Logo_With_Shadow.webp.png" group-title="All Channels" , INCTV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 
-#EXTINF:-1 tvg-id="118" tvg-name="118" tvg-logo="https://i.postimg.cc/htVMBj9s/Cartoonito-logo-2021-alternate.png" group-title="All Channels" , Cartoonito HD
-https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+#EXTINF:-1 tvg-id="118" tvg-name="118" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/200px-Boomerang_2014_logo.svg.png" group-title="All Channels" , Boomerang
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-id="Arirang.ph" tvg-name="Arirang.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/1200px-Arirang_logo.png" group-title="All Channels" , Arirang
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="178" tvg-name="178" tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png" group-title="All Channels" , Cartoon Network
-https://dvrfl07.bozztv.com/astv-cartoonnetwork/index.m3u8
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Aljazeera.ph" tvg-name="Aljazeera.ph" tvg-logo="https://i.postimg.cc/sXW5pHwc/aj.png" group-title="All Channels" , ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
@@ -1182,3 +1182,9 @@ https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
 
 #EXTINF:-1 channel-id="CrimePlusInvestigationAsia.sg" tvg-name="Crime + Investigation Asia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/512px-C%26I_logo.svg.png" group-title="All Channels" , Crime + Investigation Asia HD
 https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
+
+#EXTINF:-1 channel-id="CrimePlusInvestigationAsia.sg" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Warner_Bros._logo_2023.svg/400px-Warner_Bros._logo_2023.svg.png" group-title="All Channels" , Warner TV
+https://cdn09jtedge.indihometv.com/atm/hlsv3/warner/warner-avc1_2500000=6-mp4a_96000=2.m3u8
+
+#EXTINF:-1 channel-id="CrimePlusInvestigationAsia.sg" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Warner_Bros._logo_2023.svg/400px-Warner_Bros._logo_2023.svg.png" group-title="All Channels" , Warner TV
+https://cdn09jtedge.indihometv.com/atm/hlsv3/warner/warner-avc1_2500000=6-mp4a_96000=2.m3u8
