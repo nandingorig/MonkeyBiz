@@ -658,21 +658,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="HappyKids.us" tvg-logo="https://i.imgur.com/cPrUCFw.png" group-title="All Channels",HappyKids
 https://happykids-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAFmoWwpoO3WlVX_qBmNqZHbwDFwe-09KcGQ&s" group-title="All Channels",01. SOLAR FLIX
-https://wag.ika.lat/stream/1741969367
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipe..._2015.svg/1200px-Jeepney_TV_Logo_2015.svg.png" group-title="All Channels",03. JEEPNEY TV
-https://wag.ika.lat/stream/576146646
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/r...test/scale-to-width-down/80?cb=20240305140759" group-title="All Channels",05. RPTV
-https://wag.ika.lat/stream/2043888238​
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrGm1W-57TY0Zg_hWDPvqrZDnTTy09VMlTKg&s" group-title="All Channels",06. GTV
-https://shorten.is/Gtv-738474883838-ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipe...Logo_2011.svg/1200px-IBC_13_Logo_2011.svg.png" group-title="All Channels",13. IBC13
-https://wag.ika.lat/stream/1371426403​
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/220px-OneNewsPH_logo.svg.png" group-title="All Channels", ONENEWS
 http://defaultgen.com:3050/live/vsue295%40gmail.com/QtxtCKJ5vy/558788.ts
 
@@ -687,90 +672,6 @@ http://defaultgen.com:3050/live/ahweic/rfyMkmvwgM/558745.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/PBA_Rush_logo.png/220px-PBA_Rush_logo.png" group-title="All Channels", PBA RUSH
 http://defaultgen.com:3050/live/ahweic/rfyMkmvwgM/558787.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/NBA_TV.svg" group-title="All Channels",10. NBA Philippines
-https://wag.ika.lat/stream/1044534831
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/NBA_TV.svg" group-title="All Channels",11. NBA TV FHD
-http://mains.services/live/pmf0423/1aku0jt@/2657e4ec-5654-43e4-a224-76209ede2f07.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipe...ry_HD_Logo.svg/2560px-History_HD_Logo.svg.png" group-title="All Channels",12. HISTORY HD
-https://wag.ika.lat/stream/1468811104
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQlwOxOpSH1vCIDlYIjvoKk6g5F1LJNFh0qg&s" group-title="All Channels",14. AXN
-https://wag.ika.lat/stream/2084767267
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipe...tertainment.png/1200px-Rock_Entertainment.png" group-title="All Channels",15. ROCK ENTERTAINMENT
-https://wag.ika.lat/stream/507371538​
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/230px-CBeebies_2023.svg.png" group-title="All Channels",16. BBCCeeBeebies
-https://wag.ika.lat/stream/1954307528​
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/200px-BBC_Earth_2023.svg.png" group-title="All Channels",17. BBC Earth
-https://wag.ika.lat/stream/764474176​
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/220px-BBC_Lifestyle2.svg.png" group-title="All Channels",18. BBC Lifestyle
-https://wag.ika.lat/stream/1430935081
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://adeasy.co/storage/images/media_profile/picture/1613711235_495_small.jpg" group-title="All Channels",19. CCM
-https://wag.ika.lat/stream/451333457​
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/701px-CNBC_logo.svg.png" group-title="All Channels",20. CNBC
-https://wag.ika.lat/stream/1084159473
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/EM_TV.png/revision/latest?cb=20200422234211" group-title="All Channels",21. EMTV
-https://wag.ika.lat/stream/2031298375
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927" group-title="All Channels",22. ESPN TNT
-https://wag.ika.lat/stream/1310288432
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gem_TV_logo_2020.png/180px-Gem_TV_logo_2020.png" group-title="All Channels",23. GEM
-https://wag.ika.lat/stream/1143276143​
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/GTV_%28Philippines%29_2021-present.svg/revision/latest?cb=20230511044034" group-title="All Channels",24. GTV
-https://wag.ika.lat/stream/872206966​
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest?cb=20240302050750" group-title="All Channels",25. HISTORY
-https://wag.ika.lat/stream/1468811104
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/InPlus.svg/revision/latest/scale-to-width-down/250?cb=20221224013947",26. InPlus​
-https://wag.ika.lat/stream/498253171
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/JTV2015.svg/revision/latest?cb=20160824071938" group-title="All Channels",27. Jeepney TV​
-https://wag.ika.lat/stream/576146646​
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/MetroTV_2010.svg/revision/latest/scale-to-width-down/300?cb=20201127145437" group-title="All Channels",28. Metro TV
-https://wag.ika.lat/stream/121739637​
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/MYX_2021.svg/revision/latest/scale-to-width-down/250?cb=20210727074831" group-title="All Channels",29. Myx (US)​
-https://wag.ika.lat/stream/207261088​
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Phoenix_Chinese_Channel.svg/revision/latest?cb=20211019063427" group-title="All Channels",30. ​Phoenix Chinese
-https://wag.ika.lat/stream/1329271867​
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/PlanetFun_logo_last.png/revision/latest?cb=20230115174146" group-title="All Channels",31. Planet Fun​
-https://wag.ika.lat/stream/917275851​
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest/scale-to-width-down/1000?cb=20221212024829" group-title="All Channels",32. Rock Action
-https://wag.ika.lat/stream/507371538
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.thefilmcatalogue.com/assets/company-logos/248784/CI_K-MOVIE-ENTERTAINMENT_190927_135259.png" group-title="All Channels",33. New KMovies
-https://wag.ika.lat/stream/16172900
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RPTV_%282024%29.svg/revision/latest?cb=20240228040232" group-title="All Channels",34. RPTV​
-https://wag.ika.lat/stream/2043888238​
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/SMNI39.jpg/revision/latest?cb=20130902104537" group-title="All Channels",35. SMNI
-https://wag.ika.lat/stream/1397976003
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Solar_Flix_ID_-_2022.png/revision/latest/scale-to-width-down/1000?cb=20220728083519" group-title="All Channels",36. ​Solar Flix
-https://wag.ika.lat/stream/1741969367
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/TBN_Inspire_Logo.png/revision/latest/scale-to-width-down/1000?cb=20230117182631" group-title="All Channels",37. BN Inspire​
-https://wag.ika.lat/stream/1152846579
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/TvN_Movies_Pinoy_2023_Logo.svg/revision/latest/scale-to-width-down/1000?cb=20240618091604" group-title="All Channels",38. ​TVN PH
-https://wag.ika.lat/stream/1069391940​
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/AMC_Networks_2021_logo.svg/220px-AMC_Networks_2021_logo.svg.png" group-title="All Channels", AMC All Reality
 https://amc-absolutereality-1-us.lg.wurl.tv/playlist.m3u8
@@ -1186,5 +1087,8 @@ https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
 #EXTINF:-1 channel-id="CrimePlusInvestigationAsia.sg" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Warner_Bros._logo_2023.svg/400px-Warner_Bros._logo_2023.svg.png" group-title="All Channels" , Warner TV
 https://cdn09jtedge.indihometv.com/atm/hlsv3/warner/warner-avc1_2500000=6-mp4a_96000=2.m3u8
 
-#EXTINF:-1 channel-id="CrimePlusInvestigationAsia.sg" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Warner_Bros._logo_2023.svg/400px-Warner_Bros._logo_2023.svg.png" group-title="All Channels" , Warner TV
-https://cdn09jtedge.indihometv.com/atm/hlsv3/warner/warner-avc1_2500000=6-mp4a_96000=2.m3u8
+#EXTINF:-1 channel-id="CrimePlusInvestigationAsia.sg" tvg-name="NBA1" tvg-logo="https://logowik.com/content/uploads/images/359_nba_tv_logo.jp" group-title="All Channels" , NBA1
+http://fl5.moveonjoy.com/NBA_1/index.m3u8
+
+#EXTINF:-1 channel-id="CrimePlusInvestigationAsia.sg" tvg-name="NBA1" tvg-logo="https://logowik.com/content/uploads/images/359_nba_tv_logo.jp" group-title="All Channels" , NBA2
+http://fl5.moveonjoy.com/NBA_5/index.m3u8
