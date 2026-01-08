@@ -44,10 +44,10 @@ https://dplus.gammacdn.workers.dev/videos/111.m3u8
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
 
 #EXTINF:-1 tvg-id="39" tvg-name="39" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="All Channels" , Discovery HD
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+https://tvpass.org/live/DiscoveryChannelEast/sd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png" group-title="All Channels" , Discovery Science
-http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Family_Logo_%282014%29.svg/120px-Discovery_Family_Logo_%282014%29.svg.png" group-title="All Channels" , Discovery Family
+https://tvpass.org/live/DiscoveryFamily/sd
 
 #EXTINF:-1 tvg-id="Foodnetwork.Hd.ph" tvg-name="Foodnetwork.Hd.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="All Channels" , TLC
 http://fl2.moveonjoy.com/TLC/index.m3u8
@@ -59,7 +59,7 @@ https://dplus.gammacdn.workers.dev/videos/98.m3u8
 https://tvpass.org/live/AnimalPlanetEast/sd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ID_INVESTIGATION_DISCOVERY.png/538px-ID_INVESTIGATION_DISCOVERY.png" group-title="All Channels" , Investigation Discovery
-http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+https://tvpass.org/live/InvestigationDiscoveryEast/sd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Dmax_tv-channel.png" group-title="All Channels" , DMAX
 https://dplus.gammacdn.workers.dev/videos/109.m3u8
@@ -182,22 +182,22 @@ http://fl2.moveonjoy.com/FX/index.m3u8
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="All Channels" , Disney Channel
-https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+https://tvpass.org/live/DisneyChannelEast/sd
 
 #EXTINF:-1 channel-id="" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="All Channels" , Disney Junior
 https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 
 #EXTINF:-1 channel-id="" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="All Channels" , Disney XD
-https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+https://tvpass.org/live/DisneyXDEast/sd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="All Channels" , NICKELODEON
-https://d20opqftbkv2z0.cloudfront.net/live12/nickelodeon/bitrate1-clear.isml/live.m3u8
+https://tvpass.org/live/NickelodeonEast/sd
 
 #EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="All Channels",NickToons (720p)
 http://143.244.60.30/NICKTOONS/index.m3u8
 
 #EXTINF:-1 channel-id="" tvg-name="Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg" group-title="All Channels" , Nick Jr
-https://fl5.moveonjoy.com/NICK_JR/index.m3u8
+https://tvpass.org/live/NickJrEast/sd
 
 #EXTINF:-1 tvg-id="CCTN47.ph" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="All Channels",CCTN 47 (1080p) [Not 24/7]
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
@@ -1052,31 +1052,34 @@ https://d3fmqi91qduj7.cloudfront.net/11401/88814500/hls/master.m3u8?ads.xumo_cha
 https://d3fmqi91qduj7.cloudfront.net/11401/88814502/hls/master.m3u8?ads.xumo_channelId=88814502&ads.xumo_streamId=88814502
 
 #EXTINF:-1 channel-id="" tvg-name="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/199px-National-Geographic-Logo.svg.png" group-title="All Channels" , National Geographic
-https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=videojs&timestamp=2024-11-22-12-02
+https://tvpass.org/live/NationalGeographicEast/sd
 
 #EXTINF:-1 channel-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="All Channels" , HBO
-https://fl5.moveonjoy.com/HBO_2/index.m3u8
+https://tvpass.org/live/HBOEast/sd
 
 #EXTINF:-1 channel-id="" tvg-name="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="All Channels" , HBO2
-http://fl2.moveonjoy.com/HBO/index.m3u8
+https://tvpass.org/live/HBO2East/sd
 
 #EXTINF:-1 channel-id="" tvg-name="HBO  Zone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png?20160304233710" group-title="All Channels" , HBO Zone
-http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
+https://tvpass.org/live/HBOZoneEast/sd
 
 #EXTINF:-1 channel-id="" tvg-name="HBO  Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/200px-HBO_Family_Asia_logo.svg.png" group-title="All Channels" , HBO Family
-http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+https://tvpass.org/live/HBOFamilyEast/sd
 
 #EXTINF:-1 channel-id="" tvg-name="HBO  Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="All Channels" , HBO Comedy
-http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+https://tvpass.org/live/HBOComedyEast/sd
 
 #EXTINF:-1 channel-id="" tvg-name="HBOPlus" tvg-logo="https://www.nicepng.com/png/detail/223-2235574_1-hbo-http-hbo-plus-logo-png.png" group-title="All Channels" , HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
+
+#EXTINF:-1 channel-id="" tvg-name="HBOSignatures" tvg-logo="https://en.wikipedia.org/wiki/HBO_Signature_%28Asian_TV_channel%29#/media/File:HBO_Signature_Asia.png" group-title="All Channels" , HBO Signature
+https://tvpass.org/live/HBOSignatureEast/sd
 
 #EXTINF:-1 channel-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/220px-AXN_logo_%282015%29.svg.png" group-title="All Channels" , AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
 #EXTINF:-1 channel-id="" tvg-name="NatGeoWild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png" group-title="All Channels" , Nat Geo Wild
-https://stream02.vnet.am/NatGeoWild/mono.m3u8
+https://tvpass.org/live/NationalGeographicWildEast/sd
 
 #EXTINF:-1 channel-id="" tvg-name="KPopChannel" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mvIHQlYealbOtnxSkoFhR5NOnjFiqr7vPRJHsn-dH0P-c=s900-c-k-c0x00ffffff-no-rj" group-title="All Channels" , K Pop Channel
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -1110,3 +1113,15 @@ https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-
 
 #EXTINF:-1 channel-id="espn" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="All Channels" , ESPN 
 https://tvpass.org/live/ESPN/sd
+
+#EXTINF:-1 channel-id="espn" tvg-name="Hallmark" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hallmark_Movie_Channel.svg/960px-Hallmark_Movie_Channel.svg.png" group-title="All Channels" , Hallmark 
+https://tvpass.org/live/HallmarkChannelEast/sd
+
+#EXTINF:-1 channel-id="espn" tvg-name="HallmarkFamily" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hallmark_Family_2024.svg/960px-Hallmark_Family_2024.svg.png" group-title="All Channels" , HallmarkFamily 
+https://tvpass.org/live/HallmarkDrama/sd
+
+#EXTINF:-1 channel-id="espn" tvg-name="HallmarkMoviesMysteries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/960px-Hallmark_movies_mysteries.png" group-title="All Channels" , HallmarkMoviesMysteries 
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
+
+#EXTINF:-1 channel-id="espn" tvg-name="TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" group-title="All Channels" , TMC 
+https://tvpass.org/live/TheMovieChannelEast/sd
