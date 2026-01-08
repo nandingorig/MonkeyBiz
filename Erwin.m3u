@@ -1117,3 +1117,5 @@ https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
 #EXTINF:-1 channel-id="espn" tvg-name="TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" group-title="All Channels" , TMC 
 https://tvpass.org/live/TheMovieChannelEast/sd
 
+#EXTINF:-1 channel-id="espn" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="All Channels" , Cinemax 
+https://tvpass.org/live/CinemaxEast/sd
