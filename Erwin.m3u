@@ -1,48 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/nandingorig/MonkeyBiz/main/epg.xml"
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/us.xml.gz"
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="All Channels" , CINEMO!
-https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cinema.One.ph" tvg-name="Cinema.One.ph" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d2/Cinema_One_%282013-.n.v.%29.png" group-title="All Channels" , Cinema One
-https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
-
-#EXTINF:-1 channel-id="23" tvg-name="23" tvg-logo="https://assets-myxglobal.abs-cbn.com/wp-content/uploads/2022/07/MYX_New_Logo_Web1.png" group-title="All Channels" , MYX
-https://myxnola-abscbn-ono.amagi.tv/index.m3u8
- 
-#EXTINF:-1 tvg-id="ANC.ph" tvg-name="ANC.ph" tvg-logo="https://img.mytfc.com/cmsroot/abscms/media/mytfctv/channels/anc/anc-logo.png" group-title="All Channels" , ANC
-https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Kapamilya_Online_Live_Logo_2020.svg/2560px-Kapamilya_Online_Live_Logo_2020.svg.png" group-title="All Channels" , Kapamilya Online Live (IPTV app only)
-https://ott.studentsdemo.com/stream/phcathenatv/kapamilyachannel/master.m3u8?u=phc&p=952839dd924747ba61aac23a9311e8c8ff7013327d77fcf7df5067d0cea83fc4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GMA_Life_TV_logo.png/200px-GMA_Life_TV_logo.png" group-title="All Channels" , GMA Life TV
-http://fortv.cc:8080/live/kberg6767%40gmail.com/kberg6767%402024/101825.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/af/GMA_Pinoy_TV_logo.png/250px-GMA_Pinoy_TV_logo.png" group-title="All Channels" , GMA Pinoy
-http://fortv.cc:8080/live/kberg6767%40gmail.com/kberg6767%402024/101826.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Radyo5truefmlogo.webp/600px-Radyo5truefmlogo.webp.png" group-title="All Channels" , True FM
-https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/BuKo_Buhay_Komedya_Logo.jpg/170px-BuKo_Buhay_Komedya_Logo.jpg" group-title="All Channels" , Buko
-http://defaultgen.com:3050/live/ahweic/rfyMkmvwgM/558780.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png" group-title="All Channels" , TeleRadyo Serbisyo
-https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CLTV_logo.png" group-title="All Channels" , CLTV 36
-https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
-
-#EXTINF:-1 tvg-id="82" tvg-name="82" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="All Channels" , Travel Channel
-https://dplus.gammacdn.workers.dev/videos/110.m3u8
-
-#EXTINF:-1 tvg-id="246" tvg-name="246" tvg-logo="https://logonoid.com/images/hgtv-logo.png" group-title="All Channels" , HGTV
-https://dplus.gammacdn.workers.dev/videos/111.m3u8
-
-#EXTINF:-1 tvg-id="68" tvg-name="68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="All Channels" , Food Network
-https://dplus.gammacdn.workers.dev/videos/112.m3u8
-
 #EXTINF:-1 tvg-id="39" tvg-name="39" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="All Channels" , Discovery HD
 https://tvpass.org/live/DiscoveryChannelEast/sd
 
@@ -52,26 +10,14 @@ https://tvpass.org/live/DiscoveryFamily/sd
 #EXTINF:-1 tvg-id="Foodnetwork.Hd.ph" tvg-name="Foodnetwork.Hd.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="All Channels" , TLC
 http://fl2.moveonjoy.com/TLC/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/640px-Discovery_Turbo.png" group-title="All Channels" , Discovery Turbo
-https://dplus.gammacdn.workers.dev/videos/98.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/640px-Discovery_Turbo.png" group-title="All Channels" , Discovery Life
+https://tvpass.org/live/DiscoveryFamily/sd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nicepng.com/png/full/831-8310067_bindi-the-otters-new-animal-planet-logo.png" group-title="All Channels" , Animal Planet
 https://tvpass.org/live/AnimalPlanetEast/sd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ID_INVESTIGATION_DISCOVERY.png/538px-ID_INVESTIGATION_DISCOVERY.png" group-title="All Channels" , Investigation Discovery
 https://tvpass.org/live/InvestigationDiscoveryEast/sd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Dmax_tv-channel.png" group-title="All Channels" , DMAX
-https://dplus.gammacdn.workers.dev/videos/109.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="All Channels" , Fashion TV
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="28" tvg-name="28" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png" group-title="All Channels" , CNN
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/INCTV_Logo_With_Shadow.webp/800px-INCTV_Logo_With_Shadow.webp.png" group-title="All Channels" , INCTV
-https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 
 #EXTINF:-1 tvg-id="118" tvg-name="118" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/200px-Boomerang_2014_logo.svg.png" group-title="All Channels" , Boomerang
 https://tvpass.org/live/Boomerang/sd
@@ -82,20 +28,11 @@ https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 #EXTINF:-1 tvg-id="178" tvg-name="178" tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png" group-title="All Channels" , Cartoon Network
 https://tvpass.org/live/CartoonNetworkEast/sd
 
-#EXTINF:-1 tvg-id="Aljazeera.ph" tvg-name="Aljazeera.ph" tvg-logo="https://i.postimg.cc/sXW5pHwc/aj.png" group-title="All Channels" , ALJAZEERA
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 tvg-id="75" tvg-name="75" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png" group-title="All Channels" , KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-
 #EXTINF:-1 tvg-id="Tv5.Monde.ph" tvg-name="Tv5.Monde.ph" tvg-logo="https://i.postimg.cc/8c0DNwg2/tv5monde.png" group-title="All Channels" , TV5 MONDE Asie
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Ls57t52j/TV5-Monde-Style-2023.png" group-title="All Channels" , TV5 MONDE Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
-
-#EXTINF:-1 tvg-id="222" tvg-name="222" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png" group-title="All Channels" , NHK World Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 #EXTINF:-1 tvg-id="30" tvg-name="30" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="All Channels" , Bloomberg
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
@@ -103,83 +40,26 @@ https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="Bbcworld.News.ph" tvg-name="Bbcworld.News.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/2560px-BBC_World_News_2022.svg.png" group-title="All Channels" , BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.asiancrush.com/images/asiancrush/asiancrush_logo_image.png" group-title="All Channels" , Asian Crush
-https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" group-title="All Channels" , AMC
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cgtn.ph" tvg-name="Cgtn.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png" group-title="All Channels" , CGTN News
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-
-#EXTINF:-1 tvg-id="Cgtn.ph" tvg-name="Cgtn.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png" group-title="All Channels" , CGTN Documentaries
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-
-#EXTINF:-1 tvg-id="France24.ph" tvg-name="France24.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="All Channels" , France 24
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Lotusmacau.Prd.ph" tvg-name="Lotusmacau.Prd.ph" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="All Channels" , Lotus Macau
-https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Outdoor-Channel-Thumbnail.png" group-title="All Channels" , Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Baywatch-logo.svg/1280px-Baywatch-logo.svg.png" group-title="All Channels" , Baywatch
-https://d1ku2wsea2oun8.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="All Channels" , Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wildplanetfoods.com/cdn/shop/files/wild-planet-logo-200px.png" group-title="All Channels" , Wild Planet
-https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="All Channels" , Thrillers
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/bbc/images/a/aa/BBC_Food_%28Pluto_TV%29.png" group-title="All Channels" , BBC Food
-https://d386m2lmbakvx4.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/A/american-pickers-logo-A03D6DF65E-seeklogo.com.png" group-title="All Channels" , American Pickers
-https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/America%27s_Got_Talent_2015_logo.png/1200px-America%27s_Got_Talent_2015_logo.png" group-title="All Channels" , America's Got Talent
-https://dhkq1p9audihq.cloudfront.net/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/American_Idol_logo.svg/1280px-American_Idol_logo.svg.png" group-title="All Channels" , American Idol
-https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://asset.brandfetch.io/idEdVdcbxd/idchi5xM0w.png" group-title="All Channels" , AFV
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.besteverchannels.com/uploads/1/2/4/4/124460795/action-logo-1920x1080_orig.png" group-title="All Channels" , Action!!!
-https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://provider-static.plex.tv/epg/images/thumbnails/24hrfreemovies_artwork_vertical.jpg" group-title="All Channels" , 24 Hour Free Movies
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Redbox_logo_2017.svg/2560px-Redbox_logo_2017.svg.png" group-title="All Channels" , Redbox Spotlight
-https://spotlight-redbox.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Redbox_logo_2017.svg/2560px-Redbox_logo_2017.svg.png" group-title="All Channels" , Redbox Comedy
-https://comedy-redbox.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/72720827-544c-4599-bf8e-ade66d6bc9be-top-movies-rakutentv-1621956630.png" group-title="All Channels" , Rakuten TV (Top Free)
-https://rakuten-topfree-1-eu.rakuten.wurl.tv/2000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/32045cf9-3031-4b1e-bb31-dc1447274b2e.png" group-title="All Channels" , Rakuten TV (Family)
-https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0511ea59-1994-43e7-805b-f1e40b5ddb91-action-movies-rakuten-tv-1646655463.png" group-title="All Channels" , Rakuten TV (Action Movies)
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/2000.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png" group-title="All Channels" , MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png" group-title="All Channels" , FX East
-http://fl2.moveonjoy.com/FX/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/1280px-NickMusic.svg.png" group-title="All Channels" , Nick Music
-http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="All Channels" , Disney Channel
 https://tvpass.org/live/DisneyChannelEast/sd
@@ -202,47 +82,17 @@ https://tvpass.org/live/NickJrEast/sd
 #EXTINF:-1 tvg-id="CCTN47.ph" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="All Channels",CCTN 47 (1080p) [Not 24/7]
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 
-#EXTINF:-1 tvg-id="DZRHNewsTV.ph" tvg-logo="https://i.imgur.com/qe1QqZh.png" group-title="All Channels",DZRH News TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
-
-#EXTINF:-1 tvg-id="Kanal10Asia.se" tvg-logo="https://i.imgur.com/tY7IJva.png" group-title="All Channels",Kanal 10 Asia (540p)
-http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Net25.ph" tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="All Channels",NET 25 (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
-
 #EXTINF:-1 tvg-id="PTV4.ph" tvg-logo="https://i.imgur.com/T3jDOEq.png" group-title="All Channels",PTV 4 (480p) [Not 24/7]
 https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
-
-#EXTINF:-1 tvg-id="RadyoBandidoTV.ph" tvg-logo="https://i.imgur.com/JrNir4R.png" group-title="All Channels",Radyo Bandido TV (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UC1f5yN0Hdibzm3JqqUswKvA.m3u8
 
 #EXTINF:-1 tvg-id="TruthChannel.ph" tvg-logo="https://i.imgur.com/NRuM9Xt.png" group-title="All Channels",Truth Channel (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCa3hzYljDByZxkjIMah_2nw.m3u8
 
-#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/PYJhTiq.png" group-title="All Channels",TV5
-http://defaultgen.com:3050/live/ahweic/rfyMkmvwgM/558749.ts
-
 #EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="All Channels",TV5Monde Pacifique (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 
-#EXTINF:-1 tvg-id="TVMaria.ph" tvg-logo="https://i.imgur.com/yhIM9yU.png" group-title="All Channels",TV Maria (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCDXPB23ws_T0rVvrXVCYqyA.m3u8
-
-#EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" tvg-logo="https://i.imgur.com/dwzOBZ1.png" group-title="All Channels",TVE Internacional Asia-Oceania [Geo-blocked]
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
-
-#EXTINF:-1 tvg-id="UNTV.ph" tvg-logo="https://i.imgur.com/gFcpYSJ.png" group-title="All Channels",UNTV (2160p) [Not 24/7]
-https://ythls.armelin.one/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8
-
-#EXTINF:-1 tvg-id="Veritas846.ph" tvg-logo="https://i.imgur.com/7Ry02N8.jpeg" group-title="All Channels",Veritas 846 (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCAzUdEY3ZqtcC_s4ZdDKm7Q.m3u8
-
 #EXTINF:-1 tvg-id="ZarokTV.iq" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="All Channels",Zarok TV Sorani (720p)
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="RTRPlanetaAsia.ru" tvg-logo="https://i.imgur.com/DTtK0z7.png" group-title="All Channels",РТР Планета Азия
-https://player.smotrim.ru/iframe/stream/live_id/63254
 
 #EXTINF:-1 tvg-id="BHTV10.us" tvg-logo="https://i.imgur.com/NRrJ6xb.png" group-title="All Channels",Beverly Hills Television 10 (720p)
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8
@@ -256,41 +106,17 @@ https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 #EXTINF:-1 tvg-id="BPTV.us" tvg-logo="https://i.imgur.com/ObNBL7L.png" group-title="All Channels",Buena Park Television (360p)
 https://buenapark.cablecast.tv/live/stream-1/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",American Crimes
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65492fc7056b9700088560b5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a780-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3ce66776-1850-472a-aae6-67709c1b0532
-
 #EXTINF:-1 tvg-id="ParamountMovieChannel.us" tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="All Channels",Paramount Movie Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
-
-#EXTINF:-1 tvg-id="SonyMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="All Channels",Sony Movies (Sony Movie Channel)
-http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="All Channels",Baby Shark TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce93-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f776e00-4160-4945-86c6-3cb0fa0bd795
 
-#EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/JEDlYlh.png" group-title="All Channels",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="All Channels",Horse and Country Free
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HuntChannel.us" tvg-logo="https://i.imgur.com/uhEn9SF.png" group-title="All Channels",Hunt Channel (1080p)
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-
 #EXTINF:-1 tvg-id="InkMaster.us" tvg-logo="https://i.imgur.com/DiBojYh.png" group-title="All Channels",Ink Master
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60807fd5db701400078219c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ebedec3d-689a-4150-a2fd-4e2e34eb982c
 
-#EXTINF:-1 tvg-id="Reelz.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png" group-title="All Channels",Reelz
-https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TeenMom.us" tvg-logo="https://i.imgur.com/8o3ClCV.png" group-title="All Channels",Teen Mom
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6127e12ed140e900077e7b6f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=773b4ab9-534b-435a-904e-6819ef8dfb5e
-
-#EXTINF:-1 tvg-id="TheGuardian.uk" tvg-logo="https://i.imgur.com/o9AYq9V.png" group-title="All Channels",The Guardian
-https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TheNest.us" tvg-logo="https://iili.io/JGqD21e.png" group-title="All Channels",The Nest
-https://content.uplynk.com/channel/b468fd41b60840579668c42c096a4103.m3u8
 
 #EXTINF:-1 tvg-id="MoviesforGamers.us" tvg-logo="https://i.imgur.com/aqjzEkb.png" group-title="All Channels",Movies for Gamers
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f37e9d8-bdac-4d46-949d-ccfbf76dd6e0
@@ -298,41 +124,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="All Channels",00s Replay
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
 
-#EXTINF:-1 tvg-id="DZBBDT1.ph" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="All Channels",Super Radyo DZBB (720p) [Not 24/7]
-https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MagellanTV.us" tvg-logo="https://i.pcmag.com/imagery/reviews/0027IgrK9DvawXNJ6LYCEN9-1.fit_scale.size_1028x578.v1612813562.png" group-title="All Channels",Magellan TV
-https://jmp2.uk/sam-USAJ340000677.m3u8
-
-#EXTINF:-1 tvg-id="OneSports.ph" tvg-logo="https://www.onesports.ph/Images/OneSports.png" group-title="All Channels",One Sports
-http://opplextv.cyou:8080/live/52882216/581881255/384009.ts
-
-#EXTINF:-1 tvg-id="USBA3000042O6" tvg-chno="1000" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/50/USBA3000042O6_20210525T051452.png" group-title="All Channels",Kitchen Nightmares
-https://d12hafsmzbqmzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/KitchenNightmare2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="USBB1000002TK" tvg-chno="1004" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/96/USBB1000002TK_20210525T051501.png" group-title="All Channels",Loupe 4K
-https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="USAJ3400011A8" tvg-chno="1015" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/24/USAJ3400011A820200730102745.png" group-title="All Channels",Bloomberg TV+ UHD
-https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-#EXTINF:-1 tvg-id="USAJ3504714A" tvg-chno="1016" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/95/USAJ3504714A_20210413T065435.png" group-title="All Channels",Cheddar News
-https://bcf66772c67a40ec839611926b59b041.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cheddar/playlist.m3u8?ads.wurl_channel=575&ads.wurl_name=Cheddar&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-#EXTINF:-1 tvg-id="USBA3000044BJ" tvg-chno="1068" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/87/USBA3000044BJ_20210525T051454.png" group-title="All Channels",Lucky Dog
-https://d2eb12ehm31yjp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LuckyDog2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="USBA300029RP" tvg-chno="1069" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/53/USBA300029RP_20210525T051509.png" group-title="All Channels",The Bob Ross Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/xumo-host-samsung-bobross/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1 tvg-id="USAJ34000022E" tvg-chno="1078" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/34/USAJ34000022E20200730102745.png" group-title="All Channels",Nosey
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-nosey-tablo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USAK3508710A" tvg-chno="1132" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/USAK3508710A_20210525T051616.png" group-title="All Channels",Law & Crime
 https://4e8223185173454299fbf03581b6dd7b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_LawAndCrime/playlist.m3u8?ads.wurl_channel=226&ads.wurl_name=LawandCrime&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-#EXTINF:-1 tvg-id="USAJ3504547A" tvg-chno="1136" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/07/USAJ3504547A_20210525T051557.png" group-title="All Channels",The New Detectives
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5aea40b35126c2157123aa64/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="USAJ3504705A" tvg-chno="1159" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/22/USAJ3504705A_20210525T051625.png" group-title="All Channels",Stadium
 https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8?ads.wurl_channel=160&ads.wurl_name=Stadium&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
@@ -340,47 +136,20 @@ https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="USBA300034DB" tvg-chno="1161" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/USBA300034DB_20210525T051534.png" group-title="All Channels",Pac-12 Insider
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-id="USBB1000001XP" tvg-chno="1164" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/01/USBB1000001XP_20210525T051458.png" group-title="All Channels",IMPACT Wrestling
-https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1 tvg-id="USBB10000058A" tvg-chno="1173" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/79/USBB10000058A_20210525T094606.png" group-title="All Channels",SURF NOW TV
 https://dgwfm675921lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/SurfNowTv-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-id="USBA300022JX" tvg-chno="1176" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/42/USBA300022JX_20210525T051540.png" group-title="All Channels",Insight TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-insighttv/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-id="USAJ3504545A" tvg-chno="1195" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/99/USAJ3504545A_20210525T051600.png" group-title="All Channels",Cars
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c12ba66eae03059cbdc77f2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="All Channels", A2Z Channel
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8
-
-#EXTINF:-1 tvg-id="DreamstarTV.ph" tvg-logo="https://i.imgur.com/TltPHDk.png" group-title="All Channels",Dreamstar TV
-https://ssh101-fl.bozztv.com/ssh101/dreamstartvnew/index.m3u8
-
 #EXTINF:-1 tvg-id="GreatCommissionTV.ph" tvg-logo="https://i.imgur.com/8cvikOo.png" group-title="All Channels",Great Commission TV
 http://45.32.115.103/live/livestream/index.m3u8
-
-#EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://logowik.com/content/uploads/images/359_nba_tv_logo.jpg" group-title="All Channels",NBA
-https://fl5.moveonjoy.com/NBA_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV6Fep8RQ0Vqf096FHoXUfDloVLbnAHNsFlTVSvbpDO3s5hRdiwcBIccyo8jnXV9EiMk_6_UTrTSNtKR1z1x6HFrGVW0oyPadpHwS4blZt1MB0NtIfEDChKdbuWZmH7QoTi3DZ4T6h04ftyvmFKZW7FgFxd7JrVhxeEq1Ko-SwJG248ZkZFRJpG_YQOjI/s320/Untitled.png" group-title="All Channels",Nhers Television (PH)
-https://fl1002.bozztv.com/ssh101/jomarhost/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4HfuNGG6CTwgSv7RF7XbXGDedms-iLKKViH_anSVLFQZSIGcv4CGfCuQeIz1C11-HqGT1qYfbXNDfBASke0Rtf45MfBEV_HhEDxAVVEKB-NKc8FYh3ZgufVlkw0MScHJU4otkonQTB7ZyTLzJM1UoDi6VtB96ESriP6d022E8nyYtshyaNnvdGGBNIxg/s320/Untitled.png" group-title="All Channels",Dreamstar Teleradio Nationwide (PH)
-https://usa2.server2028.com/hls/dreamstar_teleradio_/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxB1pRKLOdHi_PJVHy6zKnfDpIfyInkPr4zXSpjR5eShmFObrEPMh9ogQyU2PZxcc5X02ug0F8m7WmfRwy7VPe7hVPlbWxAn7d9kzi4e8bj3FnRDoyg2xJqPrs8Wmsshjf3SZyL2gl6-TdLatrWNPwyDW0E8Tzhu0xL_N2QYLtp8a1bCTo4-rrJnHIYc4/s1600/Untitled.png" group-title="All Channels",Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaXMw9q1dchxOCVQ16O5cEf-EkmLJiG54n0Pwrck0MzTNrGQ8VogEyIcahUzVnj_R-k1PQjrdyWs9BDiEO2thyphenhyphengOVXvkWTTUrIE8hfCEDgncmnbskSIzwufqVLP6lnMYLcPuAjmSxaJWKOUYPKCY3A_nH_q8v7B3mREuaYWVM-XFNRo7LRl3ydpKGC2rE/s1600/Untitled.png" group-title="All Channels",Action Movies
-https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6X4xCN0pd-6iZrlR0Psa4LZ_wDkvlTtzt0vTY8hXY6Qs4H1EhJqneIqaKU0Ms6SAIwWzNm_MqlQGlim-uFwfHiAH4ZFs3BNNFnNvRWizAEtDPzqEC15tPXJURPanjtT70M2NxZMfSHM1lOF91W5Vm7t4GQBmkoJ8Bt38mLSLm5-h9IYNuXbLxj_HQN8Q/s1600/Untitled.png" group-title="All Channels",AMC Thrillers
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh_w9LBqhouoAK3v1_jIKYP-vSIOUCkTGP_xokM-AiULC5akpmwCmktFJq68tPG_5QUuqww36lxfiJMFRDDYHUkgEGQmNKMydC40O3l1E0v_MppNqnklxK86A38jJHLaj-amkhKi9DTIHtyi8gozoee-iEcj78cAlHtDW8wDS2AizhdXWkqgAafdyKuf8A" group-title="All Channels",TFC
-http://fortv.cc:8080/live/kberg6767%40gmail.com/kberg6767%402024/101823.ts
 
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="All Channels",Channel NewsAsia International
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -397,23 +166,8 @@ https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="2GB.au" tvg-logo="https://i.ibb.co/jwM8DFG/2GB-1.png" group-title="All Channels",2GB
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 
-#EXTINF:-1 tvg-id="3TamilTV.au" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nZG4BRWT5t0eCtM-SFVh0JMexLekw0evo-J4_S8Bw3YA=s512-c-k-c0x00ffffff-no-rj" group-title="All Channels",3 Tamil TV
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-
-#EXTINF:-1 tvg-id="3AW.au" tvg-logo="https://i.imgur.com/Z4MdB0S.png" group-title="All Channels",3AW
-https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
-
 #EXTINF:-1 tvg-id="6PR.au" tvg-logo="https://i.imgur.com/Q9iCxg1.png" group-title="All Channels",6PR
 https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
-
-#EXTINF:-1 tvg-id="ABCNewsSydney.au" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="All Channels",ABC News Sydney
-https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
-
-#EXTINF:-1 tvg-id="AusbizTV.au" tvg-logo="https://i.imgur.com/8vGGdB0.png" group-title="All Channels",Ausbiz TV
-https://ausbiztv-ausbiz-1-nz.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AUSTamilTV.au" tvg-logo="https://i.imgur.com/7xcDrJw.png" group-title="All Channels",AUS Tamil TV
-https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTVAustralia.au" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="All Channels",Bloomberg TV Australia
 https://bloomberg.com/media-manifest/streams/aus.m3u8
@@ -433,41 +187,20 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
 #EXTINF:-1 tvg-id="INTVAustralia.au" tvg-logo="https://i.imgur.com/1nJl0Pv.png" group-title="All Channels",INTV Australia
 http://tv1.intv.mk:1935/live/intv/index.m3u8
 
-#EXTINF:-1 tvg-id="MISTelevizija.au" tvg-logo="https://i.imgur.com/qvrNVFg.png" group-title="All Channels",MIS Televizija
-https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="All Channels",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-
-#EXTINF:-1 tvg-id="RealLife.au" tvg-logo="https://i.imgur.com/kopXiwA.png" group-title="All Channels",Real Life (Australia)
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallifenz-samsungnz/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Tastemade.au" tvg-logo="https://i.imgur.com/rR7CLzZ.png" group-title="All Channels",Tastemade (Australia)
 https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVSN.au" tvg-logo="https://i.imgur.com/lmoAFm3.png" group-title="All Channels",TVSN
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 
-#EXTINF:-1 tvg-id="LocalNow_CrimeandPunishment" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63cffc35f877ed1ebd0f7904" group-title="All Channels",Crime & Punishment
-https://add3ead40a094b288da646966519678a.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LocalNow_CrimeandPunishment/playlist.m3u8?ads.wurl_channel=1230&ads.wurl_name=CrimeandPunishment&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
-
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://www.totalcrimetv.com/wp-content/uploads/2022/10/crimetime-logo-white.png" group-title="All Channels", Total Crime
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-totalcrime-tablo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.fanart.tv/bigpreview/alien-nation-57444a629bf99.png" group-title="All Channels" , Alien Nationt!
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-aliennation-tablo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Circle_Country_logo.webp/790px-Circle_Country_logo.webp.png" group-title="All Channels" , Circle Country
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00432-circletv-circletv-tablo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://photos.prnewswire.com/prnfull/20160929/413694LOGO?max=200" group-title="All Channels" , Comedy Dynamics
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-tablo/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.marielazechter.com/womeninscienceproject/images/declassifiedrevised.png" group-title="All Channels" , DeClassified
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-tablo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s323324/images/logod.jpg" group-title="All Channels" , Nosey Judge
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-realnosey-tablo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logovectorseek.com/wp-content/uploads/2021/10/outside-tv-logo-vector-xs.png" group-title="All Channels" , Outside TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00354-outsidetv-outsidetv-tablo/playlist.m3u8
@@ -492,9 +225,6 @@ https://amc-allweddings-1-us.tablo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.teleon.tv/logo/all-reality-by-we-tv-us.png" group-title="All Channels" , All Reality WE tv
 https://amc-absolutereality-1-us.tablo.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.failarmy.com/cdn/shop/files/FA_RGB_STACKED-LOGO_HORIZONTAL_410x.png" group-title="All Channels" , Fail Army
-https://jukin-failarmy-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://media.wired.com/photos/593251a94dc9b45ccec5d343/master/w_1600,c_limit/ifc-10.jpg" group-title="All Channels", Slightly Off IFC
 https://amc-slightly-off-by-amc-1-us.tablo.wurl.tv/playlist.m3u8
@@ -523,12 +253,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-laffmore-tabl
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://www.homefultv.com/wp-content/uploads/2023/03/Homeful_Logo_MintWhite.png" group-title="All Channels", Homeful
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-homefulus-tablo/playlist.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmsdprb6sqz8bdil61k1zcy8bv2whim3g1os.png" group-title="All Channels", Mytime Movie Network
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovienetwork-tablo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://djd1sfig72gs6.cloudfront.net/ALTER__300x300.jpg" group-title="All Channels",ALTER
-https://amg00219-gunpowder-alter-redbox.amagi.tv/hls/amagi_hls_data_gunpowder-alter-redbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
-
 #EXTINF:-1 tvg-id="DistroTVUS_8087" tvg-logo="https://a.jsrdn.com/hls/22729/ftf-sports/logo_20231219_202018_46.png" group-title="All Channels",FTF Sports
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ftf/FTF_SCTE_B.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22729&ads.content_duration=18000&ads.episode_id=8087&ads.show_id=296&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CSports%20Radio%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=FTF%20Sports&ads.episodetitle=FTF%20Sports&ads.keywords=for%20the%20fans&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
 
@@ -540,12 +264,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="DistroTVUS_58240" tvg-logo="https://a.jsrdn.com/hls/22979/mirror-now/logo_20231219_215545_66.png" group-title="All Channels",Mirror Now
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mirror-now/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22979&ads.content_duration=18000&ads.episode_id=58240&ads.show_id=1791&ads.showCategories=IAB12&ads.episodeCategories=IAB12&ads.genre=News%2CPolitics%2CCurrent%20Affairs%2CAsian&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Mirror%20Now&ads.episodetitle=Mirror%20Now&ads.keywords=mirror%20now%2Cdesi&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
-
-#EXTINF:-1 tvg-id="DistroTVUS_56785" tvg-logo="https://a.jsrdn.com/hls/22964/barktv/logo_20240220_175434_70.png" group-title="All Channels",BarkTV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fido-tv/FIDO_SCTE.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22964&ads.content_duration=18000&ads.episode_id=56785&ads.show_id=1761&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CLifestyle%2CReality%20TV%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=BarkTV&ads.episodetitle=BarkTV&ads.keywords=fido%20tv%2Cdog%2Cdogs%2Cpuppy%2Cpuppies%2Cbark%2Cbarktv&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
-
-#EXTINF:-1 tvg-id="DistroTVUS_56784" tvg-logo="https://a.jsrdn.com/hls/22964/billiard-tv/logo_20231219_184548_37.png" group-title="All Channels",Billiard TV
-https://moments.videobyte.com/api/livestreaming.m3u8?pid=K8XGbfd&msid=0000012&ads=vbx&url=https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22964&ads.content_duration=18000&ads.episode_id=56784&ads.show_id=1760&ads.showCategories=IAB17&ads.episodeCategories=IAB1&ads.genre=Sports%2CEntertainment%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Billiard%20TV&ads.episodetitle=Billiard%20TV&ads.keywords=billiards%2Cbilliard%20tv&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
 
 #EXTINF:-1 tvg-id="DistroTVUS_15662" tvg-logo="https://a.jsrdn.com/hls/22731/movie-kingdom/logo_20231219_220049_70.png" group-title="All Channels",Movie Kingdom
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/movie-kingdom/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22731&ads.content_duration=18000&ads.episode_id=15662&ads.show_id=538&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CAction%2FAdventure%2CDrama%2CAfrican&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Movie%20Kingdom&ads.episodetitle=Movie%20Kingdom&ads.keywords=movies&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
@@ -564,12 +282,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="DistroTVUS_28213" tvg-logo="https://a.jsrdn.com/hls/22823/young-hollywood/logo_20231219_224434_70.png" group-title="All Channels",",Young Hollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/young-hollywood/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22823&ads.content_duration=18000&ads.episode_id=28213&ads.show_id=1032&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CPop%20Culture%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Young%20Hollywood&ads.episodetitle=Young%20Hollywood&ads.keywords=young%20hollywood%2Ccelebrity%20news&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
-
-#EXTINF:-1 tvg-id="DistroTVUS_28953" tvg-logo="https://a.jsrdn.com/hls/22759/lone-star/logo_20231219_215208_70.png" group-title="All Channels",Lone Star
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lone-star/index.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22759&ads.content_duration=18000&ads.episode_id=28953&ads.show_id=1055&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CWestern%2CClassic%20Movies%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Lone%20Star&ads.episodetitle=Lone%20Star&ads.keywords=lone%20star%2Cfilm%20detective&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
-
-#EXTINF:-1 tvg-id="DistroTVUS_29218" tvg-logo="https://a.jsrdn.com/hls/22817/hard-knocks-fighting/logo_20231219_202542_70.png" group-title="All Channels",Hard Knocks
-https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.app_bundle=__APP_BUNDLE__&ads.app_name=__APP_NAME__&ads.app_store=__STORE_URL__&ads.did=__DEVICE_ID__&ads.us_privacy=__IS_CCPA__&ads.schain=1&ads.dnt=__LIMIT_AD_TRACKING__&ads.deviceidtype=__DEVICE_ID_TYPE__&ads.gdpr=__IS_GDPR__&ads.gdprConsent=__GDPR_CONSENT__&ads.islive=1&ads.streamtype=live&ads.vf=20241020
 
 #EXTINF:-1 tvg-id="DistroTVUS_33227" tvg-logo="https://a.jsrdn.com/hls/22851/entrepreneur-1/logo_20231219_201142_47.png" group-title="All Channels",Entrepreneur
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/entrepreneur/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22851&ads.content_duration=18000&ads.episode_id=33227&ads.show_id=1081&ads.showCategories=IAB3&ads.episodeCategories=IAB3&ads.genre=Business%2CFinance%2CReality%20TV%2CFactual%2CTalk%20Show%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Entrepreneur&ads.episodetitle=Entrepreneur&ads.keywords=elevator%20pitch%2Centrepreneur&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=entrepreneur&ads.islive=1&ads.streamtype=live&ads.vf=20241020
@@ -631,47 +343,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="DistroTVUS_51534" tvg-logo="https://a.jsrdn.com/hls/22923/zoomer/logo_20231219_224547_70.png" group-title="All Channels",Zoomer TV
 https://dq126dsoud56d.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Zoomer-DistroTV/316.m3u8?ads.app_bundle=__APP_BUNDLE__&ads.app_name=__APP_NAME__&ads.app_store=__STORE_URL__&ads.did=__DEVICE_ID__&ads.us_privacy=__IS_CCPA__&ads.schain=1&ads.dnt=__LIMIT_AD_TRACKING__&ads.deviceidtype=__DEVICE_ID_TYPE__&ads.gdpr=__IS_GDPR__&ads.gdprConsent=__GDPR_CONSENT__&ads.islive=1&ads.streamtype=live&ads.vf=20241020
 
-#EXTINF:-1 tvg-id="DistroTVUS_132975" tvg-logo="https://a.jsrdn.com/hls/22964/sportstak/logo_20240813_222015_68.png" group-title="All Channels",Sportstak
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportstak/SPORTSTAK_SCTE.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22964&ads.content_duration=18000&ads.episode_id=132975&ads.show_id=5206&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CSoccer%2CAuto%20Racing%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Sportstak&ads.episodetitle=Sportstak&ads.keywords=Sports%2CSoccer%2CMMA%2CBilliards%2CRacing&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
-
-#EXTINF:-1 tvg-id="DistroTVUS_77840" tvg-logo="https://a.jsrdn.com/hls/22964/boxing-tv/logo_20231219_185026_66.png" group-title="All Channels",Boxing TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22964&ads.content_duration=18000&ads.episode_id=77840&ads.show_id=3075&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CBoxing%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Boxing%20TV&ads.episodetitle=Boxing%20TV&ads.keywords=Boxing%20TV%2CBoxing&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ABS-CBN_%282013%29.svg/200px-ABS-CBN_%282013%29.svg.png" group-title="All Channels" ,02. ABS CBN
-https://wag.ika.lat/stream/1770104596​
-
 #EXTINF:-1 tvg-id="YuGiOh.us" tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="All Channels",Yu-Gi-Oh!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3738-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31531314-3e7f-4788-8c4f-f153a43ee0a0
 
 #EXTINF:-1 tvg-id="ClassicMoviesChannel.us" tvg-logo="https://i.imgur.com/pQJxov2.png" group-title="All Channels",Classic Movies Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e003-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7911819c-67eb-4f58-944f-5c6c6d4d937d
-
-#EXTINF:-1 tvg-id="FreedomMovieSphere.ug" tvg-logo="https://i.imgur.com/jEyrlPp.jpg" group-title="All Channels",Freedom Movie Sphere
-https://panel.freedomflixtv.org:3311/stream/play.m3u8
-
-#EXTINF:-1 tvg-id="FilmRiseClassicTV.us" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="All Channels",FilmRise Classic TV on Redbox
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GravitasMovies.us" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="All Channels",Gravitas Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HappyKids.us" tvg-logo="https://i.imgur.com/cPrUCFw.png" group-title="All Channels",HappyKids
-https://happykids-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/220px-OneNewsPH_logo.svg.png" group-title="All Channels", ONENEWS
-http://defaultgen.com:3050/live/vsue295%40gmail.com/QtxtCKJ5vy/558788.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/220px-OnePHCignal.svg.png" group-title="All Channels", ONEPH
-http://defaultgen.com:3050/live/vsue295%40gmail.com/QtxtCKJ5vy/558788.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/OneSportsPlus_logo.svg" group-title="All Channels", ONE SPORTS+ HD
-http://defaultgen.com:3050/live/vsue295%40gmail.com/QtxtCKJ5vy/558758.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Uaapvarsitychannel.png/220px-Uaapvarsitychannel.png" group-title="All Channels", UAAP VARSITY CH
-http://defaultgen.com:3050/live/ahweic/rfyMkmvwgM/558745.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/PBA_Rush_logo.png/220px-PBA_Rush_logo.png" group-title="All Channels", PBA RUSH
-http://defaultgen.com:3050/live/ahweic/rfyMkmvwgM/558787.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/AMC_Networks_2021_logo.svg/220px-AMC_Networks_2021_logo.svg.png" group-title="All Channels", AMC All Reality
 https://amc-absolutereality-1-us.lg.wurl.tv/playlist.m3u8
@@ -685,17 +361,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermanageme
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Are_We_There_Yet_logo.jpg/220px-Are_We_There_Yet_logo.jpg" group-title="All Channels", Are we There Yet
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyet-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://familyhandyman.tv/wp-content/uploads/2022/08/AT_HOME_LOGO_HORIZONTAL_BLACK_COLOR-1.png" group-title="All Channels", At Home with Family Handyman
-https://jukin-homefamilyhandyman-1-us.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Antiques_Roadshow_%28title_card%29.jpg/220px-Antiques_Roadshow_%28title_card%29.jpg" group-title="All Channels", Antiques Road Show
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02333-pbsdistribution-antiquesroadshow-lgus/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/200px-BBC_Earth_2023.svg.png" group-title="All Channels", BBC Earth
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Impossible_titles.jpg/220px-Impossible_titles.jpg" group-title="All Channels", BBC Impossible
-https://bbc-impossible-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Top_Gear_Series_10_Promo_2007.jpg/250px-Top_Gear_Series_10_Promo_2007.jpg" group-title="All Channels", BBC Top Gear
 https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8min-lgus/playlist.m3u8
@@ -718,9 +385,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgu
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/History_TV_Network.png" group-title="All Channels", History Time
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/800px-Ion_logo.svg.png" group-title="All Channels", ION
-https://scripps-ion-1-us.lg.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Jail_tv_series_logo.jpg/220px-Jail_tv_series_logo.jpg" group-title="All Channels", Jail
 https://langleyproductions-jail-1-us.lg.wurl.tv/playlist.m3u8
 
@@ -739,29 +403,17 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-tmz-lgus/playlist.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Today%27s_Homeowner_logo.png/220px-Today%27s_Homeowner_logo.png" group-title="All Channels", Todays Homeowner
 https://janson-todayshomeowner-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Tru-blu-company-logo.png/220px-Tru-blu-company-logo.png" group-title="All Channels", Tru Blu
-https://trublufactual-trublu-1-us.lg.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="LN_397AAFA3-4393-4856-BB05-9CEF9637CFEB" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/397AAFA3-4393-4856-BB05-9CEF9637CFEB/3-1x1.png" group-title="All Channels", Just For Laughs
 https://226e16455804443d8a746edf3b5ad1ba.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LocalNow_JustForLaughsTV/playlist.m3u8?ads.device_model=&ads.app_bundle=&ads.cust_channeltype=channel&ads.us_privacy=1YNY&ads.channel_brand_id=AMDB013558&ads.app_store_url=&ads.app_name=&ads.channel_corp=ComediHA%2024%20INC&ads.content_id=397AAFA3-4393-4856-BB05-9CEF9637CFEB&ads.channel_company_id=AMDP500554&ads.wurl_channel=1190&ads.content_provider=just-for-laughs&ads.device_type=&ads.content_title=EPG%20%20Just%20For%20Laughs&ads.channel_ext_id=63e13ae4d87385bde5088453&ads.cust_devicename=&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.wurl_name=JustForLaughsTV&ads.did=&ads.device_make=&ads.content_genre=Comedy&ads.ip=181.215.195.227&ads.ifa_type=&ads.coppa=0&ads.dnt=&app_version=0.0.0&device_devicetype=desktop_web&height=1080&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&width=1920
 
 #EXTINF:-1 tvg-id="LN_8B382916-6958-4C22-98BF-3F3CD781A4A9" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/8B382916-6958-4C22-98BF-3F3CD781A4A9/3-1x1.png" group-title="All Channels", Just For Laughs Gags
 https://4ba34d83c35d4422aa017937f6891aef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LocalNow_JustForLaughsGags/playlist.m3u8?ads.content_provider=just-for-laughs-gags&ads.channel_company_id=AMDP500554&ads.app_store_url=&ads.did=&ads.ifa_type=&ads.content_genre=Comedy&ads.device_make=&ads.ip=181.215.195.227&ads.wurl_channel=1191&ads.app_bundle=&ads.app_name=&ads.channel_ext_id=62aa50060046b653e82db779&ads.cust_channeltype=channel&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.channel_corp=ComediHA%2024%20INC&ads.channel_brand_id=AMDB013559&ads.dnt=&ads.device_type=&ads.coppa=0&ads.cust_devicename=&ads.content_title=EPG%20%20Just%20For%20Laughs%20Gags&ads.wurl_name=JustForLaughsGags&ads.device_model=&ads.us_privacy=1YNY&ads.content_id=8B382916-6958-4C22-98BF-3F3CD781A4A9&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&width=1920&app_version=0.0.0&device_devicetype=desktop_web&height=1080
 
-#EXTINF:-1 tvg-id="LN_15F0B4CA-2C6B-43D5-A7D5-8F52922E5812" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/15F0B4CA-2C6B-43D5-A7D5-8F52922E5812/3-1x1.png" group-title="All Channels", SurvivorNetTV
-https://s2host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config3/dist/localnow/165/hls/master/playlist.m3u8?ads.cdnhost=s2host4.localnow.api.cms.amdvids.com&ads.playbackid=15F0B4CA-2C6B-43D5-A7D5-8F52922E5812&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=15F0B4CA-2C6B-43D5-A7D5-8F52922E5812&ads.n4=content_name&ads.v4=EPG%20%7C%20SurvivorNetTV&ads.n21=content_custom_3_param&ads.v21=channel&ads.n22=channel_ext_id&ads.v22=606f69366cca7a1009108599&ads.n23=channel_corp&ads.v23=SurvivorNet%20INC&ads.n24=content_livestream&ads.v24=1&ads.n25=app_store_url&ads.v25=&ads.n26=channel_name&ads.v26=EPG%20%20SurvivorNetTV&ads.n27=us_privacy&ads.v27=1YNY&ads.n28=h&ads.v28=1080&ads.n29=did&ads.v29=&ads.n30=channel_brand_id&ads.v30=AMDB012117&ads.n31=ifa_type&ads.v31=&ads.n32=channel_language&ads.v32=English&ads.n33=network_name&ads.v33=survivornettv&ads.n34=url&ads.v34=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n35=cust_devicename&ads.v35=desktop_web&ads.n36=w&ads.v36=1920&ads.n37=device_type&ads.v37=&ads.n38=channel_genre&ads.v38=Educational&ads.n39=content_custom_2_param&ads.v39=AMDB012117&ads.n40=ip&ads.v40=181.215.195.227&ads.n41=channel_company_id&ads.v41=AMDP500155&ads.n42=content_provider&ads.v42=survivornettv&ads.n43=content_type&ads.v43=channel&ads.n44=pos&ads.v44=midroll&ads.n45=channel_title&ads.v45=EPG%20%20SurvivorNetTV&ads.n46=content_custom_1_param&ads.v46=15F0B4CA-2C6B-43D5-A7D5-8F52922E5812&ads.n47=content_producer_name&ads.v47=SurvivorNet%20INC&ads.n48=app_version&ads.v48=0.0.0&ads.n49=channel_rating&ads.v49=TV-PG&ads.n50=app_name&ads.v50=&ads.n51=device_model&ads.v51=&ads.n52=ua&ads.v52=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n53=app_bundle&ads.v53=&ads.n54=dnt&ads.v54=&ads.n55=device_make&ads.v55=&ads.n56=channel_id&ads.v56=15F0B4CA-2C6B-43D5-A7D5-8F52922E5812
-
-#EXTINF:-1 tvg-id="LN_C75A9FB5-AC4C-4E6E-8853-632DF5EEB918" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/C75A9FB5-AC4C-4E6E-8853-632DF5EEB918/3-1x1.png" group-title="All Channels", Top Gear
-https://s9host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/playlist/amg00793-bbcstudios-bbctopgear8minother-localnowus/playlist.m3u8?ads.cdnhost=s9host1.localnow.api.cms.amdvids.com&ads.playbackid=C75A9FB5-AC4C-4E6E-8853-632DF5EEB918&ads.n1=rule_id&ads.v1=2EC1E51A-DED9-47B3-90BB-6457599E8E85-1714500378&ads.n3=qp_content_id&ads.v3=C75A9FB5-AC4C-4E6E-8853-632DF5EEB918&ads.n4=content_name&ads.v4=Top%20Gear&ads.n21=us_privacy&ads.v21=1YNY&ads.n22=channel_ext_id&ads.v22=&ads.n23=ip&ads.v23=181.215.195.227&ads.n24=content_custom_2_param&ads.v24=AMDB013487&ads.n25=content_provider&ads.v25=top-gear&ads.n26=cust_devicename&ads.v26=desktop_web&ads.n27=dnt&ads.v27=&ads.n28=app_bundle&ads.v28=&ads.n29=app_store_url&ads.v29=&ads.n30=ifa_type&ads.v30=&ads.n31=content_livestream&ads.v31=1&ads.n32=channel_name&ads.v32=Top%20Gear&ads.n33=channel_genre&ads.v33=Recommended&ads.n34=content_custom_1_param&ads.v34=C75A9FB5-AC4C-4E6E-8853-632DF5EEB918&ads.n35=app_version&ads.v35=0.0.0&ads.n36=device_make&ads.v36=&ads.n37=channel_id&ads.v37=C75A9FB5-AC4C-4E6E-8853-632DF5EEB918&ads.n38=channel_corp&ads.v38=BBC%20Studios%20Americas%20INC&ads.n39=app_name&ads.v39=&ads.n40=channel_title&ads.v40=Top%20Gear&ads.n41=network_name&ads.v41=top-gear&ads.n42=pos&ads.v42=midroll&ads.n43=did&ads.v43=&ads.n44=channel_brand_id&ads.v44=AMDB013487&ads.n45=channel_language&ads.v45=en&ads.n46=h&ads.v46=1080&ads.n47=device_model&ads.v47=&ads.n48=content_producer_name&ads.v48=BBC%20Studios%20Americas%20INC&ads.n49=url&ads.v49=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n50=content_custom_3_param&ads.v50=channel&ads.n51=ua&ads.v51=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n52=channel_company_id&ads.v52=AMDP500542&ads.n53=channel_rating&ads.v53=TV-PG&ads.n54=device_type&ads.v54=&ads.n55=w&ads.v55=1920&ads.n56=content_type&ads.v56=channel
-
 #EXTINF:-1 tvg-id="LN_5087B07C-3542-44BF-B4BE-7E017CB3160E" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/C75A9FB5-AC4C-4E6E-8853-632DF5EEB918/3-1x1.png" group-title="All Channels", Dog Whisperer
 https://s9host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/index.m3u8?ads.cdnhost=s9host5.localnow.api.cms.amdvids.com&ads.playbackid=5087B07C-3542-44BF-B4BE-7E017CB3160E&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=5087B07C-3542-44BF-B4BE-7E017CB3160E&ads.n4=content_name&ads.v4=Dog%20Whisperer&ads.n21=channel_language&ads.v21=en&ads.n22=content_custom_3_param&ads.v22=channel&ads.n23=h&ads.v23=1080&ads.n24=content_livestream&ads.v24=1&ads.n25=pos&ads.v25=midroll&ads.n26=content_type&ads.v26=channel&ads.n27=content_custom_2_param&ads.v27=AMDB013511&ads.n28=channel_corp&ads.v28=Cineverse%20OTT%20Holdings%20LLC&ads.n29=network_name&ads.v29=dog-whisperer&ads.n30=channel_rating&ads.v30=TV-PG&ads.n31=channel_name&ads.v31=Dog%20Whisperer&ads.n32=device_type&ads.v32=&ads.n33=cust_devicename&ads.v33=desktop_web&ads.n34=device_model&ads.v34=&ads.n35=channel_title&ads.v35=Dog%20Whisperer&ads.n36=did&ads.v36=&ads.n37=w&ads.v37=1920&ads.n38=url&ads.v38=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n39=channel_id&ads.v39=5087B07C-3542-44BF-B4BE-7E017CB3160E&ads.n40=content_custom_1_param&ads.v40=5087B07C-3542-44BF-B4BE-7E017CB3160E&ads.n41=content_provider&ads.v41=dog-whisperer&ads.n42=dnt&ads.v42=&ads.n43=app_name&ads.v43=&ads.n44=channel_ext_id&ads.v44=&ads.n45=content_producer_name&ads.v45=Cineverse%20OTT%20Holdings%20LLC&ads.n46=device_make&ads.v46=&ads.n47=ua&ads.v47=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n48=channel_brand_id&ads.v48=AMDB013511&ads.n49=ifa_type&ads.v49=&ads.n50=channel_genre&ads.v50=New%20on%20Local%20Now&ads.n51=us_privacy&ads.v51=1YNY&ads.n52=ip&ads.v52=181.215.195.227&ads.n53=app_bundle&ads.v53=&ads.n54=app_version&ads.v54=0.0.0&ads.n55=channel_company_id&ads.v55=AMDP500100&ads.n56=app_store_url&ads.v56=
 
 #EXTINF:-1 tvg-id="LN_FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/FAB3945A-F8EB-4ED4-B8A5-05FCEA44FD4A/3-1x1.png" group-title="All Channels", 48 Hours
 https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FJUr94WL2QAiVpGNHY5n5dA%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&width=1920&app_version=0.0.0&height=1080&ip_addr=181.215.195.227&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-id="LN_59F9B434-3BA1-4070-8153-01FAE81C9DBC" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/59F9B434-3BA1-4070-8153-01FAE81C9DBC/3-1x1.png" group-title="All Channels", Stormcast True Stories
-https://e52d306385ba41acaf8dce3d2dc5195c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_StormcastTrueStories/playlist.m3u8?ads.us_privacy=1YNY&ads.app_name=&ads.ip=181.215.195.227&ads.coppa=0&ads.dnt=&ads.wurl_channel=1587&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.device_type=&ads.cust_devicename=&ads.content_title=Stormcast%20True%20Stories&ads.ifa_type=&ads.device_model=&ads.content_id=59F9B434-3BA1-4070-8153-01FAE81C9DBC&ads.content_genre=Documentary&ads.did=&ads.device_make=&ads.content_provider=stormcast-true-stories&ads.wurl_name=StormcastTrueStories&ads.channel_corp=Stormcast%20Entertainment%20LLC&ads.channel_company_id=AMDP500494&ads.app_bundle=&ads.app_store_url=&ads.cust_channeltype=channel&ads.channel_ext_id=&ads.channel_brand_id=AMDB013126&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&width=1920&app_version=0.0.0&device_devicetype=desktop_web&height=1080
 
 #EXTINF:-1 tvg-id="LN_5F1970E3-03D3-4762-A920-41FDB7EF71EC" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/5F1970E3-03D3-4762-A920-41FDB7EF71EC/3-1x1.png" group-title="All Channels", Car Chase
 https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FRjvF1cd0Qx-65Dz14THpPA%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&height=1080&ip_addr=181.215.195.227&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0
@@ -781,20 +433,11 @@ https://s5host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 #EXTINF:-1 tvg-id="LN_1488D2DF-4EEC-46A1-AAA0-FE3EE90C7F20" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/1488D2DF-4EEC-46A1-AAA0-FE3EE90C7F20/3-1x1.png" group-title="All Channels", wedo big stories
 https://s7host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config8/playlist.m3u8?ads.cdnhost=s7host2.localnow.api.cms.amdvids.com&ads.playbackid=1488D2DF-4EEC-46A1-AAA0-FE3EE90C7F20&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=1488D2DF-4EEC-46A1-AAA0-FE3EE90C7F20&ads.n4=content_name&ads.v4=EPG%20%7C%20Wedo%20Big%20Stories&ads.n21=channel_id&ads.v21=1488D2DF-4EEC-46A1-AAA0-FE3EE90C7F20&ads.n22=channel_brand_id&ads.v22=AMDB013115&ads.n23=channel_rating&ads.v23=TV-PG&ads.n24=device_make&ads.v24=&ads.n25=cust_devicename&ads.v25=desktop_web&ads.n26=channel_genre&ads.v26=Documentary&ads.n27=app_bundle&ads.v27=&ads.n28=app_store_url&ads.v28=&ads.n29=dnt&ads.v29=&ads.n30=channel_name&ads.v30=EPG%20%20Wedo%20Big%20Stories&ads.n31=did&ads.v31=&ads.n32=ifa_type&ads.v32=&ads.n33=device_model&ads.v33=&ads.n34=url&ads.v34=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n35=w&ads.v35=1920&ads.n36=network_name&ads.v36=wedo-big-stories&ads.n37=ip&ads.v37=181.215.195.227&ads.n38=channel_language&ads.v38=English&ads.n39=channel_ext_id&ads.v39=63e124837bb3f452cf0a1152&ads.n40=channel_company_id&ads.v40=AMDP500481&ads.n41=content_custom_3_param&ads.v41=channel&ads.n42=content_producer_name&ads.v42=Video%20Solutions%20AG&ads.n43=content_provider&ads.v43=wedo-big-stories&ads.n44=app_version&ads.v44=0.0.0&ads.n45=ua&ads.v45=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n46=content_livestream&ads.v46=1&ads.n47=channel_corp&ads.v47=Video%20Solutions%20AG&ads.n48=device_type&ads.v48=&ads.n49=app_name&ads.v49=&ads.n50=content_custom_2_param&ads.v50=AMDB013115&ads.n51=pos&ads.v51=midroll&ads.n52=us_privacy&ads.v52=1YNY&ads.n53=content_custom_1_param&ads.v53=1488D2DF-4EEC-46A1-AAA0-FE3EE90C7F20&ads.n54=channel_title&ads.v54=EPG%20%20Wedo%20Big%20Stories&ads.n55=content_type&ads.v55=channel&ads.n56=h&ads.v56=1080
 
-#EXTINF:-1 tvg-id="LN_8DA288A0-0505-40B5-8984-D219DB56D23A" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/8DA288A0-0505-40B5-8984-D219DB56D23A/3-1x1.png" group-title="All Channels", Classic Doctor Who
-https://20b38fb4ed814a31812e85c57ad82d33.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_ClassicDoctorWho/playlist.m3u8?ads.ip=181.215.195.227&ads.coppa=0&ads.device_type=&ads.cust_channeltype=channel&ads.device_model=&ads.content_id=8DA288A0-0505-40B5-8984-D219DB56D23A&ads.app_bundle=&ads.app_store_url=&ads.us_privacy=1YNY&ads.content_genre=Drama&ads.channel_brand_id=AMDB013483&ads.channel_corp=BBC%20Studios%20Americas%20INC&ads.device_make=&ads.app_name=&ads.content_provider=classic-doctor-who&ads.did=&ads.ifa_type=&ads.cust_devicename=&ads.channel_company_id=AMDP500542&ads.wurl_name=ClassicDoctorWho&ads.dnt=&ads.channel_ext_id=&ads.wurl_channel=904&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.content_title=Classic%20Doctor%20Who&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&width=1920&app_version=0.0.0&device_devicetype=desktop_web&height=1080
-
-#EXTINF:-1 tvg-id="LN_A9BAC7BD-E8B0-4B2D-B290-9AF210B32B50" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A9BAC7BD-E8B0-4B2D-B290-9AF210B32B50/3-1x1.png" group-title="All Channels", ET
-https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FxrVrJYTmTfitfXBQfeZByQ%2Fmaster.m3u8&height=1080&ip_addr=181.215.195.227&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0
-
 #EXTINF:-1 tvg-id="LN_47830A4D-9030-43A4-BC1B-D2EFF3F7B3CD" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/47830A4D-9030-43A4-BC1B-D2EFF3F7B3CD/3-1x1.png" group-title="All Channels", Popstar! TV
 https://s2host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config3/dist/localnow/10/hls/master/playlist.m3u8?ads.cdnhost=s2host4.localnow.api.cms.amdvids.com&ads.playbackid=47830A4D-9030-43A4-BC1B-D2EFF3F7B3CD&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=47830A4D-9030-43A4-BC1B-D2EFF3F7B3CD&ads.n4=content_name&ads.v4=EPG%20%7C%20Popstar%21%20TV&ads.n21=channel_language&ads.v21=English&ads.n22=pos&ads.v22=midroll&ads.n23=ip&ads.v23=181.215.195.227&ads.n24=channel_brand_id&ads.v24=AMDB012093&ads.n25=channel_rating&ads.v25=TV-PG&ads.n26=app_bundle&ads.v26=&ads.n27=device_model&ads.v27=&ads.n28=ifa_type&ads.v28=&ads.n29=content_provider&ads.v29=popstar-tv&ads.n30=channel_corp&ads.v30=Associated%20Television%20International&ads.n31=channel_genre&ads.v31=Entertainment&ads.n32=app_version&ads.v32=0.0.0&ads.n33=content_custom_1_param&ads.v33=47830A4D-9030-43A4-BC1B-D2EFF3F7B3CD&ads.n34=device_type&ads.v34=&ads.n35=did&ads.v35=&ads.n36=content_type&ads.v36=channel&ads.n37=dnt&ads.v37=&ads.n38=content_producer_name&ads.v38=Associated%20Television%20International&ads.n39=channel_name&ads.v39=EPG%20%20Popstar%21%20TV&ads.n40=url&ads.v40=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n41=app_name&ads.v41=&ads.n42=app_store_url&ads.v42=&ads.n43=content_custom_3_param&ads.v43=channel&ads.n44=cust_devicename&ads.v44=desktop_web&ads.n45=network_name&ads.v45=popstar-tv&ads.n46=content_custom_2_param&ads.v46=AMDB012093&ads.n47=content_livestream&ads.v47=1&ads.n48=w&ads.v48=1920&ads.n49=ua&ads.v49=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n50=channel_ext_id&ads.v50=5ffceab423748977d7657422&ads.n51=device_make&ads.v51=&ads.n52=us_privacy&ads.v52=1YNY&ads.n53=channel_company_id&ads.v53=AMDP500126&ads.n54=h&ads.v54=1080&ads.n55=channel_id&ads.v55=47830A4D-9030-43A4-BC1B-D2EFF3F7B3CD&ads.n56=channel_title&ads.v56=EPG%20%20Popstar%21%20TV
 
 #EXTINF:-1 tvg-id="LN_0FC89598-DE79-4E78-8FE8-C1AF33EBC428" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/0FC89598-DE79-4E78-8FE8-C1AF33EBC428/3-1x1.png" group-title="All Channels", The Pet Collective
 https://s1host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config1/dist/localnow/174/hls/master/playlist.m3u8?ads.cdnhost=s1host2.localnow.api.cms.amdvids.com&ads.playbackid=0FC89598-DE79-4E78-8FE8-C1AF33EBC428&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=0FC89598-DE79-4E78-8FE8-C1AF33EBC428&ads.n4=content_name&ads.v4=EPG%20%7C%20The%20Pet%20Collective&ads.n21=pos&ads.v21=midroll&ads.n22=channel_id&ads.v22=0FC89598-DE79-4E78-8FE8-C1AF33EBC428&ads.n23=dnt&ads.v23=&ads.n24=device_model&ads.v24=&ads.n25=content_producer_name&ads.v25=JukinMedia%20INC&ads.n26=content_custom_3_param&ads.v26=channel&ads.n27=ifa_type&ads.v27=&ads.n28=ip&ads.v28=181.215.195.227&ads.n29=app_name&ads.v29=&ads.n30=app_store_url&ads.v30=&ads.n31=app_bundle&ads.v31=&ads.n32=channel_rating&ads.v32=TV-PG&ads.n33=h&ads.v33=1080&ads.n34=us_privacy&ads.v34=1YNY&ads.n35=channel_brand_id&ads.v35=AMDB012771&ads.n36=content_provider&ads.v36=the-pet-collective&ads.n37=url&ads.v37=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n38=channel_ext_id&ads.v38=627404d795db9c7534705234&ads.n39=content_custom_1_param&ads.v39=0FC89598-DE79-4E78-8FE8-C1AF33EBC428&ads.n40=channel_title&ads.v40=EPG%20%20The%20Pet%20Collective&ads.n41=ua&ads.v41=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n42=content_livestream&ads.v42=1&ads.n43=network_name&ads.v43=the-pet-collective&ads.n44=channel_language&ads.v44=English&ads.n45=app_version&ads.v45=0.0.0&ads.n46=content_custom_2_param&ads.v46=AMDB012771&ads.n47=device_type&ads.v47=&ads.n48=channel_corp&ads.v48=JukinMedia%20INC&ads.n49=channel_name&ads.v49=EPG%20%20The%20Pet%20Collective&ads.n50=w&ads.v50=1920&ads.n51=content_type&ads.v51=channel&ads.n52=device_make&ads.v52=&ads.n53=channel_genre&ads.v53=Family&ads.n54=channel_company_id&ads.v54=AMDP500402&ads.n55=did&ads.v55=&ads.n56=cust_devicename&ads.v56=desktop_web
-
-#EXTINF:-1 tvg-id="LN_193AF853-CE66-44E8-8375-C126588C403C" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/193AF853-CE66-44E8-8375-C126588C403C/3-1x1.png" group-title="All Channels", Da Vinci
-https://s6host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config8/playlist.m3u8?ads.cdnhost=s6host5.localnow.api.cms.amdvids.com&ads.playbackid=193AF853-CE66-44E8-8375-C126588C403C&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=193AF853-CE66-44E8-8375-C126588C403C&ads.n4=content_name&ads.v4=EPG%20%7C%20Da%20Vinci&ads.n21=content_custom_3_param&ads.v21=channel&ads.n22=cust_devicename&ads.v22=desktop_web&ads.n23=device_type&ads.v23=&ads.n24=app_store_url&ads.v24=&ads.n25=app_version&ads.v25=0.0.0&ads.n26=content_type&ads.v26=channel&ads.n27=did&ads.v27=&ads.n28=channel_brand_id&ads.v28=AMDB013041&ads.n29=ip&ads.v29=181.215.195.227&ads.n30=pos&ads.v30=midroll&ads.n31=content_producer_name&ads.v31=Tinizine%20Limited&ads.n32=channel_corp&ads.v32=Tinizine%20Limited&ads.n33=content_custom_1_param&ads.v33=193AF853-CE66-44E8-8375-C126588C403C&ads.n34=network_name&ads.v34=da-vinci&ads.n35=h&ads.v35=1080&ads.n36=device_model&ads.v36=&ads.n37=ua&ads.v37=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n38=content_custom_2_param&ads.v38=AMDB013041&ads.n39=device_make&ads.v39=&ads.n40=channel_rating&ads.v40=TV-PG&ads.n41=channel_genre&ads.v41=Educational&ads.n42=app_name&ads.v42=&ads.n43=channel_name&ads.v43=EPG%20%20Da%20Vinci&ads.n44=content_livestream&ads.v44=1&ads.n45=us_privacy&ads.v45=1YNY&ads.n46=content_provider&ads.v46=da-vinci&ads.n47=ifa_type&ads.v47=&ads.n48=dnt&ads.v48=&ads.n49=channel_language&ads.v49=English&ads.n50=app_bundle&ads.v50=&ads.n51=channel_title&ads.v51=EPG%20%20Da%20Vinci&ads.n52=w&ads.v52=1920&ads.n53=channel_company_id&ads.v53=AMDP500466&ads.n54=channel_id&ads.v54=193AF853-CE66-44E8-8375-C126588C403C&ads.n55=channel_ext_id&ads.v55=64403e87abbeecbec10b8462&ads.n56=url&ads.v56=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal
 
 #EXTINF:-1 tvg-id="LN_EF37B5DC-D83E-4E11-BD19-6018F6C92938" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/EF37B5DC-D83E-4E11-BD19-6018F6C92938/3-1x1.png" group-title="All Channels", Deal or No Deal
 https://s7host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config9/playlist.m3u8?ads.cdnhost=s7host5.localnow.api.cms.amdvids.com&ads.playbackid=EF37B5DC-D83E-4E11-BD19-6018F6C92938&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=EF37B5DC-D83E-4E11-BD19-6018F6C92938&ads.n4=content_name&ads.v4=Deal%20or%20No%20Deal%3A%20powered%20by%20Banijay&ads.n21=app_store_url&ads.v21=&ads.n22=did&ads.v22=&ads.n23=channel_language&ads.v23=English&ads.n24=w&ads.v24=1920&ads.n25=app_name&ads.v25=&ads.n26=device_make&ads.v26=&ads.n27=us_privacy&ads.v27=1YNY&ads.n28=device_type&ads.v28=&ads.n29=app_version&ads.v29=0.0.0&ads.n30=content_custom_1_param&ads.v30=EF37B5DC-D83E-4E11-BD19-6018F6C92938&ads.n31=content_livestream&ads.v31=1&ads.n32=content_type&ads.v32=channel&ads.n33=h&ads.v33=1080&ads.n34=channel_company_id&ads.v34=AMDP500504&ads.n35=content_provider&ads.v35=deal-or-no-deal-powered-by-banijay&ads.n36=channel_corp&ads.v36=Banijay%20Rights%20LTD&ads.n37=app_bundle&ads.v37=&ads.n38=network_name&ads.v38=deal-or-no-deal-powered-by-banijay&ads.n39=ip&ads.v39=181.215.195.227&ads.n40=ua&ads.v40=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n41=content_custom_2_param&ads.v41=AMDB013291&ads.n42=url&ads.v42=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n43=channel_ext_id&ads.v43=&ads.n44=channel_title&ads.v44=Deal%20or%20No%20Deal%3A%20powered%20by%20Banijay&ads.n45=channel_genre&ads.v45=Game%20Show&ads.n46=content_producer_name&ads.v46=Banijay%20Rights%20LTD&ads.n47=channel_rating&ads.v47=TV-PG&ads.n48=channel_id&ads.v48=EF37B5DC-D83E-4E11-BD19-6018F6C92938&ads.n49=dnt&ads.v49=&ads.n50=content_custom_3_param&ads.v50=channel&ads.n51=ifa_type&ads.v51=&ads.n52=device_model&ads.v52=&ads.n53=pos&ads.v53=midroll&ads.n54=channel_name&ads.v54=Deal%20or%20No%20Deal%3A%20powered%20by%20Banijay&ads.n55=cust_devicename&ads.v55=desktop_web&ads.n56=channel_brand_id&ads.v56=AMDB013291
@@ -811,26 +454,11 @@ https://s7host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 #EXTINF:-1 tvg-id="LN_E0A91D8A-DFAD-46DE-9DFD-1DB8FA5D506C" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E0A91D8A-DFAD-46DE-9DFD-1DB8FA5D506C/3-1x1.png" group-title="All Channels", Robot Wars by Mech+
 https://25f3c5a1c14e446eb4a2f7f7a5664f47.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LocalNow_MechPlus/playlist.m3u8?ads.content_genre=Gaming&ads.content_provider=mech&ads.channel_company_id=AMDP500520&ads.wurl_channel=1413&ads.coppa=0&ads.cust_devicename=&ads.channel_brand_id=AMDB013419&ads.app_bundle=&ads.us_privacy=1YNY&ads.dnt=&ads.device_model=&ads.content_title=Robot%20Wars%20by%20Mech+&ads.channel_corp=Mech%20TV%20Ltd&ads.device_make=&ads.content_id=E0A91D8A-DFAD-46DE-9DFD-1DB8FA5D506C&ads.cust_channeltype=channel&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.device_type=&ads.ip=181.215.195.227&ads.wurl_name=MechPlus&ads.app_name=&ads.did=&ads.channel_ext_id=&ads.app_store_url=&ads.ifa_type=&app_version=0.0.0&device_devicetype=desktop_web&height=1080&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&width=1920
 
-#EXTINF:-1 tvg-id="LN_E433C352-E861-484F-BFFE-4F0A8A95F5A2" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E433C352-E861-484F-BFFE-4F0A8A95F5A2/3-1x1.png" group-title="All Channels", BBC Game Shows
-https://42b2f2022f7a4acc9f27eb2977e640df.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_BBCGameShows/playlist.m3u8?ads.ip=181.215.195.227&ads.coppa=0&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.device_type=&ads.content_id=E433C352-E861-484F-BFFE-4F0A8A95F5A2&ads.ifa_type=&ads.content_provider=bbc-game-shows&ads.us_privacy=1YNY&ads.channel_ext_id=&ads.wurl_name=BBCGameShows&ads.cust_devicename=&ads.channel_brand_id=AMDB013485&ads.channel_company_id=AMDP500542&ads.did=&ads.content_title=BBC%20Game%20Shows&ads.content_genre=Gaming%20and%20More&ads.device_make=&ads.device_model=&ads.channel_corp=BBC%20Studios%20Americas%20INC&ads.app_store_url=&ads.wurl_channel=1573&ads.dnt=&ads.cust_channeltype=channel&ads.app_bundle=&ads.app_name=&width=1920&app_version=0.0.0&device_devicetype=desktop_web&height=1080&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal
-
-#EXTINF:-1 tvg-id="LN_9FFFF243-7CC0-4D6F-8063-5397736E8A91" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9FFFF243-7CC0-4D6F-8063-5397736E8A91/3-1x1.png" group-title="All Channels", Quiz Show
-https://cc64789e4a4b41b2a1a64193a8377612.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_ImpossibleQuizShow/playlist.m3u8?ads.channel_corp=BBC%20Studios%20Americas%20INC&ads.wurl_name=ImpossibleQuizShow&ads.device_model=&ads.app_store_url=&ads.ifa_type=&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.device_type=&ads.cust_devicename=&ads.did=&ads.content_genre=Gaming%20and%20More&ads.content_id=9FFFF243-7CC0-4D6F-8063-5397736E8A91&ads.content_provider=impossible-quiz-show&ads.channel_brand_id=AMDB013484&ads.device_make=&ads.us_privacy=1YNY&ads.app_bundle=&ads.content_title=Impossible%20-%20Quiz%20Show&ads.dnt=&ads.channel_company_id=AMDP500542&ads.coppa=0&ads.ip=181.215.195.227&ads.wurl_channel=1011&ads.app_name=&ads.cust_channeltype=channel&ads.channel_ext_id=&height=1080&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&width=1920&app_version=0.0.0&device_devicetype=desktop_web
-
-#EXTINF:-1 tvg-id="LN_06FFDD3B-A149-4023-8EF8-96685EB19DDE" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/06FFDD3B-A149-4023-8EF8-96685EB19DDE/3-1x1.png" group-title="All Channels", Screambox TV
-https://s2host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config3/index.m3u8?ads.cdnhost=s2host4.localnow.api.cms.amdvids.com&ads.playbackid=06FFDD3B-A149-4023-8EF8-96685EB19DDE&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=06FFDD3B-A149-4023-8EF8-96685EB19DDE&ads.n4=content_name&ads.v4=EPG%20%7C%20Screambox%20TV&ads.n21=content_provider&ads.v21=bloodydisgusting&ads.n22=did&ads.v22=&ads.n23=channel_name&ads.v23=EPG%20%20Screambox%20TV&ads.n24=us_privacy&ads.v24=1YNY&ads.n25=app_name&ads.v25=&ads.n26=device_make&ads.v26=&ads.n27=w&ads.v27=1920&ads.n28=ua&ads.v28=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n29=channel_rating&ads.v29=TV-PG&ads.n30=channel_corp&ads.v30=Cinedigm%20OTT%20Holdings%20LLC&ads.n31=device_type&ads.v31=&ads.n32=content_custom_1_param&ads.v32=06FFDD3B-A149-4023-8EF8-96685EB19DDE&ads.n33=h&ads.v33=1080&ads.n34=channel_id&ads.v34=06FFDD3B-A149-4023-8EF8-96685EB19DDE&ads.n35=app_store_url&ads.v35=&ads.n36=channel_genre&ads.v36=Horror&ads.n37=cust_devicename&ads.v37=desktop_web&ads.n38=app_version&ads.v38=0.0.0&ads.n39=channel_language&ads.v39=English&ads.n40=ifa_type&ads.v40=&ads.n41=channel_company_id&ads.v41=AMDP500100&ads.n42=network_name&ads.v42=bloodydisgusting&ads.n43=ip&ads.v43=181.215.195.227&ads.n44=content_custom_3_param&ads.v44=channel&ads.n45=channel_ext_id&ads.v45=6366fb26c4509c0561063762&ads.n46=channel_title&ads.v46=EPG%20%20Screambox%20TV&ads.n47=app_bundle&ads.v47=&ads.n48=dnt&ads.v48=&ads.n49=pos&ads.v49=midroll&ads.n50=url&ads.v50=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n51=content_custom_2_param&ads.v51=AMDB012008&ads.n52=content_producer_name&ads.v52=Cinedigm%20OTT%20Holdings%20LLC&ads.n53=content_type&ads.v53=channel&ads.n54=channel_brand_id&ads.v54=AMDB012008&ads.n55=content_livestream&ads.v55=1&ads.n56=device_model&ads.v56=
-
 #EXTINF:-1 tvg-id="LN_79549FA0-4EBE-48C3-957F-037BA02E827F" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/79549FA0-4EBE-48C3-957F-037BA02E827F/3-1x1.png" group-title="All Channels", Horror Machine
 https://s4host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config5/dist/localnow/82/hls/master/playlist.m3u8?ads.cdnhost=s4host4.localnow.api.cms.amdvids.com&ads.playbackid=79549FA0-4EBE-48C3-957F-037BA02E827F&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&ads.n3=qp_content_id&ads.v3=79549FA0-4EBE-48C3-957F-037BA02E827F&ads.n4=content_name&ads.v4=EPG%20%7C%20Horror%20Machine&ads.n21=content_custom_2_param&ads.v21=AMDB012040&ads.n22=content_custom_3_param&ads.v22=channel&ads.n23=us_privacy&ads.v23=1YNY&ads.n24=h&ads.v24=1080&ads.n25=network_name&ads.v25=horror-machine&ads.n26=w&ads.v26=1920&ads.n27=channel_genre&ads.v27=Horror&ads.n28=channel_company_id&ads.v28=AMDP500136&ads.n29=content_provider&ads.v29=horror-machine&ads.n30=content_livestream&ads.v30=1&ads.n31=ua&ads.v31=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n32=ip&ads.v32=181.215.195.227&ads.n33=app_store_url&ads.v33=&ads.n34=device_make&ads.v34=&ads.n35=pos&ads.v35=midroll&ads.n36=device_type&ads.v36=&ads.n37=channel_id&ads.v37=79549FA0-4EBE-48C3-957F-037BA02E827F&ads.n38=channel_name&ads.v38=EPG%20%20Horror%20Machine&ads.n39=ifa_type&ads.v39=&ads.n40=channel_corp&ads.v40=Frequency%20Networks%20INC&ads.n41=channel_ext_id&ads.v41=6058394aaceae9658754f502&ads.n42=device_model&ads.v42=&ads.n43=content_type&ads.v43=channel&ads.n44=did&ads.v44=&ads.n45=url&ads.v45=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n46=app_name&ads.v46=&ads.n47=channel_language&ads.v47=English&ads.n48=content_producer_name&ads.v48=Frequency%20Networks%20INC&ads.n49=channel_title&ads.v49=EPG%20%20Horror%20Machine&ads.n50=channel_brand_id&ads.v50=AMDB012040&ads.n51=content_custom_1_param&ads.v51=79549FA0-4EBE-48C3-957F-037BA02E827F&ads.n52=app_bundle&ads.v52=&ads.n53=app_version&ads.v53=0.0.0&ads.n54=dnt&ads.v54=&ads.n55=cust_devicename&ads.v55=desktop_web&ads.n56=channel_rating&ads.v56=TV-PG
 
-#EXTINF:-1 tvg-id="LN_D461B360-8F08-47BD-9E39-0B6B605C3F9E" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D461B360-8F08-47BD-9E39-0B6B605C3F9E/3-1x1.png" group-title="All Channels", Unexplained
-https://65c199f54d714f5bb856c5564317aab4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_Unexplained/playlist.m3u8?ads.content_provider=unexplained&ads.app_name=&ads.did=&ads.channel_ext_id=628d2266140fe665f061af14&ads.app_bundle=&ads.wurl_name=Unexplained&ads.wurl_channel=1159&ads.content_title=EPG%20%20Unexplained&ads.cust_devicename=&ads.channel_company_id=AMDP500108&ads.content_id=D461B360-8F08-47BD-9E39-0B6B605C3F9E&ads.ifa_type=&ads.dnt=&ads.device_model=&ads.cust_channeltype=channel&ads.content_genre=Mystery&ads.app_store_url=&ads.us_privacy=1YNY&ads.channel_brand_id=AMDB013272&ads.channel_corp=Gravitas%20Ventures&ads.coppa=0&ads.device_make=&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.ip=181.215.195.227&ads.device_type=&height=1080&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&width=1920&app_version=0.0.0&device_devicetype=desktop_web
-
 #EXTINF:-1 tvg-id="LN_803D1BB4-9C6B-4562-B71F-E58FB556F44B" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/803D1BB4-9C6B-4562-B71F-E58FB556F44B/3-1x1.png" group-title="All Channels", Beyond Paranormal
 https://6e73d46459a74ae78d8bceb68011db47.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_BeyondParanormal/playlist.m3u8?ads.content_provider=beyond-paranormal&ads.channel_ext_id=&ads.app_bundle=&ads.dnt=&ads.app_store_url=&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.coppa=0&ads.channel_company_id=AMDP500388&ads.ip=181.215.195.227&ads.content_genre=Thriller&ads.content_title=Beyond%20Paranormal&ads.ifa_type=&ads.content_id=803D1BB4-9C6B-4562-B71F-E58FB556F44B&ads.channel_corp=Video%20Elephant&ads.wurl_name=BeyondParanormal&ads.device_model=&ads.cust_devicename=&ads.wurl_channel=1549&ads.app_name=&ads.cust_channeltype=channel&ads.channel_brand_id=AMDB013437&ads.device_type=&ads.device_make=&ads.us_privacy=1YNY&ads.did=&width=1920&app_version=0.0.0&device_devicetype=desktop_web&height=1080&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal
-
-#EXTINF:-1 tvg-id="LN_829B2E23-00D2-4283-ADA0-64A49931C5F0" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/829B2E23-00D2-4283-ADA0-64A49931C5F0/3-1x1.png" group-title="All Channels", Love Stories TV
-https://61db1718eec04f09a347d7c19a9ab138.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_LoveStoriesTV/playlist.m3u8?ads.content_provider=love-stories-tv&ads.content_id=829B2E23-00D2-4283-ADA0-64A49931C5F0&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.us_privacy=1YNY&ads.channel_company_id=AMDP500431&ads.channel_ext_id=62d849831e35767cf102c702&ads.wurl_channel=1061&ads.ip=181.215.195.227&ads.ifa_type=&ads.device_type=&ads.channel_corp=LoveStories%20TV&ads.coppa=0&ads.app_store_url=&ads.content_genre=Romance&ads.channel_brand_id=AMDB012910&ads.wurl_name=LoveStoriesTV&ads.device_make=&ads.cust_devicename=&ads.did=&ads.dnt=&ads.app_bundle=&ads.app_name=&ads.content_title=829B2E23-00D2-4283-ADA0-64A49931C5F0&ads.device_model=&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&width=1920&app_version=0.0.0&device_devicetype=desktop_web&height=1080
 
 #EXTINF:-1 channel-id="" tvg-name="Miramax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Miramax-Films-Logo.svg/236px-Miramax-Films-Logo.svg.png" group-title="All Channels" , Miramax Movies
 https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
@@ -859,9 +487,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00308-magnoliapicture-cinelife-tcl/
 #EXTINF:-1 channel-id="" tvg-name="WatchMojo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Watchmojo-logo-2018.png" group-title="All Channels" , Watch Mojo
 https://watchmojo-1-us.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 channel-id="" tvg-name="Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png" group-title="All Channels" , Action
-https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 channel-id="" tvg-name="BeyondParanormalUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png" group-title="All Channels" , Beyond Paranormal US
 https://videoelephantlimited-beyondparanormal-1-us.tcltvplus.wurl.tv/playlist.m3u8
 
@@ -870,12 +495,6 @@ https://amogonetworx-bigtjme-1-us.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="" tvg-name="Filmzie" tvg-logo="https://m.media-amazon.com/images/I/818IBwg4qsL.png" group-title="All Channels" , Filmzie
 https://filmzie-filmzie-3-us.tcl.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 channel-id="" tvg-name="Food" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Foodlogo.svg" group-title="All Channels" , Food
-https://food-us.tcl.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 channel-id="" tvg-name="sarisari" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Sari-Sari_Channel_logo.png/200px-Sari-Sari_Channel_logo.png" group-title="All Channels" , Sari-Sari
-http://fortv.cc:8080/live/kberg6767%40gmail.com/kberg6767%402024/101824.ts
 
 #EXTINF:-1 channel-id="" tvg-name="M4 Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/M4_icon.svg/220px-M4_icon.svg.png" group-title="All Channels" , M4 Crime
 http://1tv41.icu:8080/76qHVc/061362/215280
@@ -985,9 +604,6 @@ http://1tv41.icu:8080/robinbrown70@yahoo.com/robinbrown70@2024/215326
 #EXTINF:-1 channel-id="" tvg-name="M4 Transporter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/M4_icon.svg/220px-M4_icon.svg.png" group-title="All Channels" , M4 Transporter
 http://1tv41.icu:8080/76qHVc/061362/215343
 
-#EXTINF:-1 channel-id="" tvg-name="M4 War" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/M4_icon.svg/220px-M4_icon.svg.png" group-title="All Channels" , M4 War
-http://1tv41.icu:8080/76qHVc/061362/215345
-
 #EXTINF:-1 channel-id="" tvg-name="Ice Road Truckers" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVlZTJjYWUtMDJlYi00NjliLWE3OWItMTZkMzQ0NWYxMjU1XkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg" group-title="All Channels" , Ice Road Truckers
 https://593eceaa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0ljZVJvYWRUcnVja2Vyc19ITFM/playlist.m3u8
 
@@ -996,9 +612,6 @@ https://d3fmqi91qduj7.cloudfront.net/11401/88814512/hls/master.m3u8?ads.xumo_cha
 
 #EXTINF:-1 channel-id="" tvg-name="Crime ThrillHer" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/THRILLR/large_white.png" group-title="All Channels" , Crime ThrillHer
 https://f2ea7639.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0NyaW1lVGhyaWxsSGVyX0hMUw/playlist.m3u8
-
-#EXTINF:-1 channel-id="" tvg-name="Crime & Punishment" tvg-logo="https://w7.pngwing.com/pngs/343/98/png-transparent-united-states-drug-related-crime-capital-punishment-criminal-law-united-states-text-logo-united-states.png" group-title="All Channels" , Crime & Punishment
-https://e86ebe30b5a6405ea08704e2e8746141.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_CrimeandPunishment/playlist.m3u8
 
 #EXTINF:-1 channel-id="" tvg-name="Crime Cults Killers by A&E" tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/CRIMEC/large_dark.png" group-title="All Channels" , Crime Cults Killers by A&E
 https://tvpass.org/live/AEEast/sd
@@ -1078,23 +691,14 @@ https://tvpass.org/live/HBOSignatureEast/sd
 #EXTINF:-1 channel-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/220px-AXN_logo_%282015%29.svg.png" group-title="All Channels" , AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
-#EXTINF:-1 channel-id="" tvg-name="NatGeoWild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png" group-title="All Channels" , Nat Geo Wild
+#EXTINF:-1 channel-id="" tvg-name="NatGeoWild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/120px-National_Geographic_Wild_logo.svg.png" group-title="All Channels" , Nat Geo Wild
 https://tvpass.org/live/NationalGeographicWildEast/sd
 
 #EXTINF:-1 channel-id="" tvg-name="KPopChannel" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mvIHQlYealbOtnxSkoFhR5NOnjFiqr7vPRJHsn-dH0P-c=s900-c-k-c0x00ffffff-no-rj" group-title="All Channels" , K Pop Channel
-https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 channel-id="" tvg-name="Next Movement" tvg-logo="https://media.licdn.com/dms/image/D560BAQFjqVBarD-JvA/company-logo_200_200/0/1680758557654?e=2147483647&v=beta&t=jZcFPhVwDPwdz9xM8ZNN-1-ZyUE8AP2jO9cHxvKYAeY" group-title="All Channels" , Next Movement
-https://newidco-ygtv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u88
 
 #EXTINF:-1 channel-id="" tvg-name="K-Movie Entertainment" tvg-logo="https://media.licdn.com/dms/image/D560BAQFjqVBarD-JvA/company-logo_200_200/0/1680758557654?e=2147483647&v=beta&t=jZcFPhVwDPwdz9xM8ZNN-1-ZyUE8AP2jO9cHxvKYAeY" group-title="All Channels" , K-Movie Enterntainment
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
-
-#EXTINF:-1 channel-id="" tvg-name="ODC" tvg-logo="https://play-lh.googleusercontent.com/84hK02GVg2Z5ZWXzAbqprRstvVqvqlGxX1g00B06zXza9_FTZiTCTW9vlwqSuc2yvyH4=w240-h480-rw" group-title="All Channels" , ODC
-https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 channel-id="" tvg-name="Hi-Yah!" tvg-logo="https://m.media-amazon.com/images/I/51ZRO9-pw5L.png" group-title="All Channels" , Hi-Yah!
-https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
 
 #EXTINF:-1 channel-id="CrimePlusInvestigationAsia.sg" tvg-name="Crime + Investigation Asia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/512px-C%26I_logo.svg.png" group-title="All Channels" , Crime + Investigation Asia HD
 https://tvpass.org/live/CrimePlusInvestigation/sd
@@ -1122,4 +726,5 @@ https://tvpass.org/live/CinemaxEast/sd
 
 #EXTINF:-1 channel-id="espn" tvg-name="HallmarkMoviesandMore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hallmark_Movie_Channel.svg/960px-Hallmark_Movie_Channel.svg.png" group-title="All Channels" , HallmarkMoviesandMore 
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+
 
