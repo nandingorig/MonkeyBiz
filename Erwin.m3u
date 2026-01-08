@@ -1104,3 +1104,7 @@ http://fl5.moveonjoy.com/NBA_1/index.m3u8
 
 #EXTINF:-1 channel-id="CrimePlusInvestigationAsia.sg" tvg-name="NBA1" tvg-logo="https://logowik.com/content/uploads/images/359_nba_tv_logo.jpg" group-title="All Channels" , NBA2
 http://fl5.moveonjoy.com/NBA_5/index.m3u8
+
+#EXTINF:-1 channel-id="" tvg-name="BilyonaryoNewsChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/BilyonaryoNewsChannel_Logo_-_Black_%282024%29.png" group-title="All Channels" , BilyonaryoNewsChannel 
+https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
+
