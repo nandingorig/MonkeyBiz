@@ -8,7 +8,7 @@ https://tvpass.org/live/DiscoveryChannelEast/sd
 https://tvpass.org/live/DiscoveryFamily/sd
 
 #EXTINF:-1 tvg-id="Foodnetwork.Hd.ph" tvg-name="Foodnetwork.Hd.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="All Channels" , TLC
-http://fl2.moveonjoy.com/TLC/index.m3u8
+https://tvpass.org/live/TLCEast/sd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/640px-Discovery_Turbo.png" group-title="All Channels" , Discovery Life
 https://tvpass.org/live/DiscoveryFamily/sd
@@ -726,5 +726,6 @@ https://tvpass.org/live/CinemaxEast/sd
 
 #EXTINF:-1 channel-id="espn" tvg-name="HallmarkMoviesandMore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hallmark_Movie_Channel.svg/960px-Hallmark_Movie_Channel.svg.png" group-title="All Channels" , HallmarkMoviesandMore 
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+
 
 
