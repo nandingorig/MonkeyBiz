@@ -727,5 +727,88 @@ https://tvpass.org/live/CinemaxEast/sd
 #EXTINF:-1 channel-id="espn" tvg-name="HallmarkMoviesandMore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hallmark_Movie_Channel.svg/960px-Hallmark_Movie_Channel.svg.png" group-title="All Channels" , HallmarkMoviesandMore 
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 
+#EXTINF:-1 channel-id="A2Z" tvg-name="A2Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="All Channels" , A2Z 
+http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqHRrK8UUahwItHhKpXgPXKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1287297673984&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=U4DB4Z0H2EXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 channel-id="DepEdTV" tvg-name="DepEdTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/DepEd_TV_logo_%282020%29.jpg/revision/latest?cb=20201125234029" group-title="All Channels" , DepEd TV 
+http://136.239.158.10:6610/001/2/ch00000090990000001340/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpqUIe1xo9fgdQj%2FdedKSTyytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001832&contentid=ch00000000000000001832&videoid=ch00000090990000001340&recommendtype=0&userid=1586131651828&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1RR87QJ6AY2XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 channel-id="ALLTV" tvg-name="ALLTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/ALLTV_Logo_2022.svg" group-title="All Channels" , ALLTV 
+http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 channel-id="JeepneyTV" tvg-name="JeepneyTV" tvg-logo="https://en.wikipedia.org/wiki/File:Jeepney_TV_Logo_2015.svg" group-title="All Channels" , Jeepney TV 
+http://161.49.17.2:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpGbNnk2H5Bi8k4yR%2B9AHGFytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001546&contentid=ch00000000000000001546&videoid=ch00000090990000001250&recommendtype=0&userid=1870820485634&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6T45HYQ6YE3XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 channel-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://logos-world.net/wp-content/uploads/2024/09/Cartoonito-Logo.png" group-title="All Channels" , Cartoonito 
+http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 channel-id="FilAmTVNetwork" tvg-name="FilAmTVNetwork" tvg-logo="https://ml02dtnc01wc.i.optimole.com/w:247/h:57/q:mauto/ig:avif/https://filamtv.us/wp-content/uploads/2021/10/logo.png" group-title="All Channels" , FilAm TV Network 
+https://streams.comclark.com/pknsd/filamtv/playlist.m3u8
+
+#EXTINF:-1 channel-id="TVMaria" tvg-name="TVMaria" tvg-logo="https://static.wikia.nocookie.net/russel/images/3/33/TV_Maria_Logo_2006.png/" group-title="All Channels" , TV Maria 
+http://136.158.97.2:6610/001/2/ch00000090990000001160/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqJiJmfV%2B93mjmGGmqynSohytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001374&contentid=ch00000000000000001374&videoid=ch00000090990000001160&recommendtype=0&userid=1605694488407&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G669IAJA55PXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 channel-id="TMC" tvg-name="TagalizedMovieChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Tmc2021logo.png" group-title="All Channels" , Tagalized Movie Channel
+http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1123674387331&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OWFM2G9EILPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 channel-id="MoonbugKids" tvg-name="MoonbugKids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Moonbug_Kids.svg" group-title="All Channels" , Moonbug Kids 
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="GMA" tvg-name="GMA" tvg-logo="https://upload.wikimedia.org/wikipedia/tl/f/f1/Gma_network_logo.png" group-title="All Channels" , GMA 
+http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 channel-id="INCTV" tvg-name="INCTV" tvg-logo="https://en.wikipedia.org/wiki/File:INC_TV_New_Logo.png" group-title="All Channels" , INCTV 
+http://136.239.159.18:6610/001/2/ch00000090990000001092/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrC5ZD%2FYbS0KSGrFVJUNIMkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001178&contentid=ch00000000000000001178&videoid=ch00000090990000001092&recommendtype=0&userid=1760058453659&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HILNO5G9U9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 channel-id="VegasLifeTV" tvg-name="VegasLifeTV" tvg-logo="https://www.vegaslifetv.us/assets/images/vltv-wm-white-logo-131x131.png" group-title="All Channels" , Vegas Life TV
+https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8
+
+#EXTINF:-1 channel-id="MindanowNetworkTV" tvg-name="MindanowNetworkTV" tvg-logo="https://ml02dtnc01wc.i.optimole.com/w:945/h:945/q:mauto/ig:avif/https://mindanownetwork.com/wp-content/uploads/2024/11/Mindanow-Network-Logo-Vertical.png" group-title="All Channels" , Mindanow Network TV 
+https://streams.comclark.com/overlay/mindanow/playlist.m3u8
+
+#EXTINF:-1 channel-id="BBCNewsAsiaPacific" tvg-name="BBCNewsAsiaPacific" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/250px-BBC_News_2022_%28Alt%29.svg.png" group-title="All Channels" , BBC News Asia Pacific 
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+
+#EXTINF:-1 channel-id="CLTV36" tvg-name="CLTV36" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/CLTV-36_Logo.jpeg/250px-CLTV-36_Logo.jpeg" group-title="All Channels" , CLTV 36
+https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
+
+#EXTINF:-1 channel-id="EWTNAsiaPacific" tvg-name="EWTNAsiaPacific" tvg-logo="https://ewtnasiapacific.com/wp-content/uploads/2025/12/Logo-EWTN-1.webp" group-title="All Channels" , EWTN Asia-Pacific
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+
+#EXTINF:-1 channel-id="Arirang" tvg-name="Arirang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="All Channels" , Arirang 
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 channel-id="CGTNNewsLive" tvg-name="CGTNNewsLive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/CGTN.svg" group-title="All Channels" , CGTN News Live 
+http://136.239.173.26:6610/001/2/ch00000090990000001146/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0bLdlQQxjquEy7BUYBE%2BOytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001316&contentid=ch00000000000000001316&videoid=ch00000090990000001146&recommendtype=0&userid=1917967408923&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4ADPFTEPDLCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO 
+
+#EXTINF:-1 channel-id="CGTNDocumentaries" tvg-name="CGTNDocumentaries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/CGTN.svg" group-title="All Channels" , CGTN Documentaries 
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
+
+#EXTINF:-1 channel-id="TFCGUAM" tvg-name="TFCGUAM" tvg-logo="https://mytfc.com/_next/image?url=https%3A%2F%2Fimg.mytfc.com%2Fabscms%2Fabscms%2Fmedia%2Fmytfctv%2Fui%2Fcontent%2Fimg_logo-tfc.png" group-title="All Channels" , TFC GUAM
+https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
+
+#EXTINF:-1 channel-id="3ABNKids" tvg-name="3ABNKids" tvg-logo="https://3abnkids.tv/img/3ABN-KIDS-LOGO.png" group-title="All Channels" , 3ABN Kids
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+
+#EXTINF:-1 channel-id="BluesTV" tvg-name="BluesTV" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a97bf8e2-19dd-4d0d-bce2-0d9e12eaa48a/dl7zult-3b8fed24-78b4-4e06-bbe9-68fe41aaf257.png/v1/fill/w_1280,h_1224/the_blues_logo__2011___2016__by_nathan_box_dl7zult-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIyNCIsInBhdGgiOiIvZi9hOTdiZjhlMi0xOWRkLTRkMGQtYmNlMi0wZDllMTJlYWE0OGEvZGw3enVsdC0zYjhmZWQyNC03OGI0LTRlMDYtYmJlOS02OGZlNDFhYWYyNTcucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6nduX4i5XVVhMx23pcaN8CGjGbHqGwwQ57SpN-JrH4Q" group-title="All Channels" , Blues TV
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+
+#EXTINF:-1 channel-id="JapanimTV" tvg-name="JapanimTV" tvg-logo="https://commons.wikimedia.org/wiki/Category:Logos_of_television_channels_in_Japan#/media/File:%E3%82%B9%E3%82%AB%E3%82%A4A%E3%83%AD%E3%82%B4.jpg" group-title="All Channels" , Japanim TV
+https://foxkidstv.be:3369/stream/play.m3u8
+
+#EXTINF:-1 channel-id="MagicKids" tvg-name="MagicKids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Magickids1995.svg" group-title="All Channels" , Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1 channel-id="PersianaJunior" tvg-name="PersianaJunior" tvg-logo="https://tvfarsi.com/wp-content/uploads/2024/04/Persiana-Junior-Live-Your-Childs-Gateway-to-Farsi-Cartoons-and-Culture.webp" group-title="All Channels" , Persiana Junior
+https://junhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 channel-id="YahooFinance" tvg-name="YahooFinance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Yahoo%21_Finance_logo.svg" group-title="All Channels" , Yahoo! Finance
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="EWTNEurope" tvg-name="EWTNEurope" tvg-logo="https://ewtn.ie/wp-content/uploads/2021/11/EWTN_roi_logo1-1-300x98.png" group-title="All Channels" , EWTN Europe
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+
+#EXTINF:-1 channel-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/CNN_International_logo.svg" group-title="All Channels" , CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 
