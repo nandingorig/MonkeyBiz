@@ -811,4 +811,6 @@ https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1 channel-id="CNN" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/CNN_International_logo.svg" group-title="All Channels" , CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 channel-id="UndercoverBossGlobal" tvg-name="UndercoverBossGlobal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Undercover_Boss_logo.jpg" group-title="All Channels" , Undercove rBoss Global 
+https://all3media-international-undercoverboss-1-au.samsung.wurl.tv/playlist.m3u8
 
