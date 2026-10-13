@@ -411,3 +411,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 #EXTINF:-1 channel-id="UndercoverBossGlobal" tvg-name="UndercoverBossGlobal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Undercover_Boss_logo.jpg" group-title="All Channels" , Undercover Boss Global 
 https://all3media-international-undercoverboss-1-au.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="WickedTuna" tvg-name="UndercoverBossGlobal" tvg-logo="https://en.wikipedia.org/wiki/Wicked_Tuna#/media/File:Wicked_Tuna_-_logo_-_01.jpg" group-title="All Channels" , The Wicked Tuna Channel 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtuna-fetchtvau/playlist.m3u8
