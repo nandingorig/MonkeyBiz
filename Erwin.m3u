@@ -412,5 +412,17 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 channel-id="UndercoverBossGlobal" tvg-name="UndercoverBossGlobal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Undercover_Boss_logo.jpg" group-title="All Channels" , Undercover Boss Global 
 https://all3media-international-undercoverboss-1-au.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 channel-id="WickedTuna" tvg-name="UndercoverBossGlobal" tvg-logo="https://en.wikipedia.org/wiki/Wicked_Tuna#/media/File:Wicked_Tuna_-_logo_-_01.jpg" group-title="All Channels" , The Wicked Tuna Channel 
+#EXTINF:-1 channel-id="WickedTuna" tvg-name="WickedTuna" tvg-logo="https://en.wikipedia.org/wiki/Wicked_Tuna#/media/File:Wicked_Tuna_-_logo_-_01.jpg" group-title="All Channels" , The Wicked Tuna Channel 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtuna-fetchtvau/playlist.m3u8
+
+#EXTINF:-1 channel-id="Now70s" tvg-name="Now70s" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/960px-NOW_70s.png" group-title="All Channels" , Now 70s 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-now70-fetchtv-fetchtvau/playlist.m3u8
+
+#EXTINF:-1 channel-id="Now80s" tvg-name="Now80s" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/NOW_80s_Logo.png/960px-NOW_80s_Logo.png" group-title="All Channels" , Now 80s 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-now80-fetchtv-fetchtvau/playlist.m3u8
+
+#EXTINF:-1 channel-id="NowRock" tvg-name="NowRock" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/NOW_Rock.png" group-title="All Channels" , Now Rock 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-now90-fetchtv-fetchtvau/playlist.m3u8
+
+#EXTINF:-1 channel-id="60DaysIn" tvg-name="60DaysIn" tvg-logo="https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/4/2024/05/60-days-in-s9-2048x1152-priority-feature-16x9-1.jpg" group-title="All Channels" , 60 Days In Jail 
+https://3f73a77a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiXzYwRGF5c0luSU5UTF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=crime&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=162.158.33.250&ads.market=uk&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=15&ads.rtv_channel_name=60-days-in-jail_uk&ads.rtv_content_id=7169&ads.rtv_content_language=en&ads.rtvid=271858&ads.streaming_id=19aac3f3-b252-4c3e-8fcf-425718b1fcc1&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=2077
