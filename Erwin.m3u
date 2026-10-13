@@ -10,7 +10,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Ls57t52j/TV5-Monde-Style-2023.png" group-title="All Channels" , TV5 MONDE Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 
-#EXTINF:-1 tvg-id="30" tvg-name="30" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="All Channels" , Bloomberg
+#EXTINF:-1 tvg-id="30" tvg-name="Bloomberg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="All Channels" , Bloomberg
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 
 #EXTINF:-1 tvg-id="Bbcworld.News.ph" tvg-name="Bbcworld.News.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/2560px-BBC_World_News_2022.svg.png" group-title="All Channels" , BBC World News
