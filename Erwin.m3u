@@ -106,7 +106,7 @@ http://tv1.intv.mk:1935/live/intv/index.m3u8
 #EXTINF:-1 tvg-id="TVSN.au" tvg-logo="https://i.imgur.com/lmoAFm3.png" group-title="All Channels",TVSN
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://www.totalcrimetv.com/wp-content/uploads/2022/10/crimetime-logo-white.png" group-title="All Channels", Total Crime
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.totalcrimetv.com/wp-content/uploads/2022/10/crimetime-logo-white.png" group-title="All Channels", Total Crime
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-totalcrime-tablo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Circle_Country_logo.webp/790px-Circle_Country_logo.webp.png" group-title="All Channels" , Circle Country
@@ -139,31 +139,31 @@ https://amc-allweddings-1-us.tablo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.teleon.tv/logo/all-reality-by-we-tv-us.png" group-title="All Channels" , All Reality WE tv
 https://amc-absolutereality-1-us.tablo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/File:IFC_2018_logo.svg" group-title="All Channels", Slightly Off IFC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/File:IFC_2018_logo.svg" group-title="All Channels", Slightly Off IFC
 https://amc-slightly-off-by-amc-1-us.tablo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/walkingdead/images/a/a3/TWDUniverse.jpeg/revision/latest?cb=20231013184405" group-title="All Channels", Walking Dead Universe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/walkingdead/images/a/a3/TWDUniverse.jpeg/revision/latest?cb=20231013184405" group-title="All Channels", Walking Dead Universe
 https://amc-twdfanexperience-1-us.tablo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://cdn.teleon.tv/logo/ifc-films-picks-us.png" group-title="All Channels", IFC Film Picks
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.teleon.tv/logo/ifc-films-picks-us.png" group-title="All Channels", IFC Film Picks
 https://amc-ifc-films-picks-1-us.tablo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Allblk_logo.svg/220px-Allblk_logo.svg.png" group-title="All Channels", ALLBLK Gems
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Allblk_logo.svg/220px-Allblk_logo.svg.png" group-title="All Channels", ALLBLK Gems
 https://amc-allblk-gems-1-us.tablo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Portlandia_logo.png" group-title="All Channels", Portlandia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Portlandia_logo.png" group-title="All Channels", Portlandia
 https://amc-portlandia-1-us.tablo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Crime360" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Crime_360_logo.jpg/220px-Crime_360_logo.jpg" group-title="All Channels" , Crime360
 https://f82e592c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQ3JpbWUzNjBfSExT/playlist.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png" group-title="All Channels", ANIME x HIDIVE
+#EXTINF:-1 tvg-id="ANIMEXHIDIVE" tvg-name="ANIMEXHIDIVE" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png" group-title="All Channels", ANIME X HIDIVE
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/QM7J8fzFHfDmWx8DvgDbFB-650-80.png.webp" group-title="All Channels", Laff More
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/QM7J8fzFHfDmWx8DvgDbFB-650-80.png.webp" group-title="All Channels", Laff More
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-laffmore-tablo/playlist.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://www.homefultv.com/wp-content/uploads/2023/03/Homeful_Logo_MintWhite.png" group-title="All Channels", Homeful
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.homefultv.com/wp-content/uploads/2023/03/Homeful_Logo_MintWhite.png" group-title="All Channels", Homeful
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-homefulus-tablo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="YuGiOh.us" tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="All Channels",Yu-Gi-Oh!
