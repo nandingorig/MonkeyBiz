@@ -76,9 +76,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.
 #EXTINF:-1 tvg-id="USBB10000058A" tvg-chno="1173" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/79/USBB10000058A_20210525T094606.png" group-title="All Channels",SURF NOW TV
 https://dgwfm675921lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/SurfNowTv-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxB1pRKLOdHi_PJVHy6zKnfDpIfyInkPr4zXSpjR5eShmFObrEPMh9ogQyU2PZxcc5X02ug0F8m7WmfRwy7VPe7hVPlbWxAn7d9kzi4e8bj3FnRDoyg2xJqPrs8Wmsshjf3SZyL2gl6-TdLatrWNPwyDW0E8Tzhu0xL_N2QYLtp8a1bCTo4-rrJnHIYc4/s1600/Untitled.png" group-title="All Channels",Bein Sports Xtra
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6X4xCN0pd-6iZrlR0Psa4LZ_wDkvlTtzt0vTY8hXY6Qs4H1EhJqneIqaKU0Ms6SAIwWzNm_MqlQGlim-uFwfHiAH4ZFs3BNNFnNvRWizAEtDPzqEC15tPXJURPanjtT70M2NxZMfSHM1lOF91W5Vm7t4GQBmkoJ8Bt38mLSLm5-h9IYNuXbLxj_HQN8Q/s1600/Untitled.png" group-title="All Channels",AMC Thrillers
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 
@@ -390,9 +387,6 @@ https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 
 #EXTINF:-1 channel-id="CGTNDocumentaries" tvg-name="CGTNDocumentaries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/CGTN.svg" group-title="All Channels" , CGTN Documentaries 
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
-
-#EXTINF:-1 channel-id="BluesTV" tvg-name="BluesTV" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a97bf8e2-19dd-4d0d-bce2-0d9e12eaa48a/dl7zult-3b8fed24-78b4-4e06-bbe9-68fe41aaf257.png/v1/fill/w_1280,h_1224/the_blues_logo__2011___2016__by_nathan_box_dl7zult-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIyNCIsInBhdGgiOiIvZi9hOTdiZjhlMi0xOWRkLTRkMGQtYmNlMi0wZDllMTJlYWE0OGEvZGw3enVsdC0zYjhmZWQyNC03OGI0LTRlMDYtYmJlOS02OGZlNDFhYWYyNTcucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6nduX4i5XVVhMx23pcaN8CGjGbHqGwwQ57SpN-JrH4Q" group-title="All Channels" , Blues TV
-https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 
 #EXTINF:-1 channel-id="PersianaJunior" tvg-name="PersianaJunior" tvg-logo="https://tvfarsi.com/wp-content/uploads/2024/04/Persiana-Junior-Live-Your-Childs-Gateway-to-Farsi-Cartoons-and-Culture.webp" group-title="All Channels" , Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
